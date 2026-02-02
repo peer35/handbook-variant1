@@ -3,5 +3,6 @@
 git ls-tree -r --name-only HEAD | while read filename; do
   unixtime=$(git log -1 --format="%at" -- "${filename}")
   touchtime=$(date -d @$unixtime +'%Y%m%d%H%M.%S')
+  echo "${touchtime} ${filename}"
   touch -t ${touchtime} "${filename}"
 done
