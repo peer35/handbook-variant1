@@ -1,5 +1,139 @@
 [
   {
+    "listing": "/guides.html",
+    "items": [
+      "/guides/publish-and-share.html",
+      "/guides/comply-with-gdpr.html",
+      "/guides/discover-and-initiate.html",
+      "/guides/collect-and-store.html",
+      "/guides/process-and-analyse.html",
+      "/guides/document-and-preserve.html",
+      "/guides/onboarding.html",
+      "/guides/publishing-fair-software.html",
+      "/guides/plan-and-design.html",
+      "/guides/use-osf.html",
+      "/guides/policies-supporting-vision-open-science.html",
+      "/guides/data-lifecycle.html",
+      "/guides/offboarding.html"
+    ]
+  },
+  {
+    "listing": "/lifecycle/02-plan-design.html",
+    "items": [
+      "/topics/data-classification.html",
+      "/topics/data-management-plan.html",
+      "/topics/data-management-section.html",
+      "/topics/ethical-review.html",
+      "/topics/gdpr.html",
+      "/topics/research-data-and-software-management-policy.html",
+      "/guides/comply-with-gdpr.html",
+      "/guides/onboarding.html",
+      "/guides/plan-and-design.html"
+    ]
+  },
+  {
+    "listing": "/lifecycle/03-collect-store.html",
+    "items": [
+      "/topics/data-backup.html",
+      "/topics/data-collection.html",
+      "/topics/data-protection.html",
+      "/topics/data-storage.html",
+      "/guides/collect-and-store.html",
+      "/guides/use-osf.html"
+    ]
+  },
+  {
+    "listing": "/lifecycle/04-process-analyse.html",
+    "items": [
+      "/guides/process-and-analyse.html",
+      "/guides/use-osf.html"
+    ]
+  },
+  {
+    "listing": "/tools/ithenticate/index.html",
+    "items": [
+      "/tools/ithenticate/advanced_settings/doc_to_doc_comparison.html",
+      "/tools/ithenticate/advanced_settings/folder_options.html",
+      "/tools/ithenticate/advanced_settings/url_phrase_exclusion.html",
+      "/tools/ithenticate/getting_started/exporting_results.html",
+      "/tools/ithenticate/getting_started/first_scan.html",
+      "/tools/ithenticate/getting_started/getting_started.html",
+      "/tools/ithenticate/getting_started/log_in.html",
+      "/tools/ithenticate/interpreting_sim_scores/similarity_scores.html",
+      "/tools/ithenticate/similarity_report/faq.html",
+      "/tools/ithenticate/similarity_report/similarity_report.html"
+    ]
+  },
+  {
+    "listing": "/tools/ada/index.html",
+    "items": [
+      "/tools/ada/login.html",
+      "/tools/ada/quick-start.html",
+      "/tools/ada/software.html",
+      "/tools/ada/slurm.html",
+      "/tools/ada/hardware.html",
+      "/tools/ada/hpc-101.html",
+      "/tools/ada/open-ondemand.html",
+      "/tools/ada/yoda.html",
+      "/tools/ada/help.html",
+      "/tools/ada/code-examples/Python/1-python-multithreading.html",
+      "/tools/ada/code-examples/Python/2-python-multiprocessing.html",
+      "/tools/ada/code-examples/Python/3-python-pytorch.html",
+      "/tools/ada/code-examples/R/1-R-multiprocessing.html",
+      "/tools/ada/code-examples/matlab.html"
+    ]
+  },
+  {
+    "listing": "/tools/yoda/index.html",
+    "items": [
+      "/tools/yoda/data_access/data_access_linux.html",
+      "/tools/yoda/data_access/data_access_macos.html",
+      "/tools/yoda/data_access/data_access_windows.html",
+      "/tools/yoda/data_access/introduction.html",
+      "/tools/yoda/data_access/yoda_dap.html",
+      "/tools/yoda/data_access/yoda_using_cyberduck.html",
+      "/tools/yoda/data_access/yoda_using_cyberduck_cryptometer.html",
+      "/tools/yoda/data_access/yoda_using_icommands.html",
+      "/tools/yoda/data_access/yoda_using_python.html",
+      "/tools/yoda/data_access/yoda_using_rclone.html",
+      "/tools/yoda/data_access/yoda_using_webdrive.html",
+      "/tools/yoda/data_access/yoda_using_windowsexplorer.html",
+      "/tools/yoda/data_access/yoda_using_winscp.html",
+      "/tools/yoda/faq/faq.html",
+      "/tools/yoda/faq/known_issues.html",
+      "/tools/yoda/securing_distribution/vault_archive.html",
+      "/tools/yoda/securing_distribution/vault_publish.html",
+      "/tools/yoda/using_yoda/analysing_data.html",
+      "/tools/yoda/using_yoda/finding_restoring.html",
+      "/tools/yoda/using_yoda/metadata.html",
+      "/tools/yoda/using_yoda/properties_and_explanation.html",
+      "/tools/yoda/using_yoda/workflow_metadata.html",
+      "/tools/yoda/using_yoda/workflow_metadata_license.html",
+      "/tools/yoda/yoda_portal/group_manager.html",
+      "/tools/yoda/yoda_portal/index.html",
+      "/tools/yoda/yoda_portal/introduction.html",
+      "/tools/yoda/yoda_portal/logging_in.html",
+      "/tools/yoda/yoda_portal/notifications.html",
+      "/tools/yoda/yoda_portal/sram_invitations_eduid_activation.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/blog/2025-07-28manuals.html",
+      "/blog/2025-07-24hackathon.html",
+      "/blog/2025-07-29itvoblog.html",
+      "/blog/2025-05-15embed-iframe.html",
+      "/blog/2024-11-28hackathon.html",
+      "/blog/2024-11-01hackathon.html",
+      "/blog/2024-10-22post-mortem.html",
+      "/blog/2024-09-30hackathon.html",
+      "/blog/2024-09-05hackathon.html",
+      "/blog/2024-06-27hackathon.html",
+      "/blog/2024-05-23welcome.html"
+    ]
+  },
+  {
     "listing": "/topics.html",
     "items": [
       "/topics/academic-integrity.html",
@@ -44,44 +178,21 @@
     ]
   },
   {
-    "listing": "/tools/ada/index.html",
+    "listing": "/tools.html",
     "items": [
-      "/tools/ada/login.html",
-      "/tools/ada/quick-start.html",
-      "/tools/ada/software.html",
-      "/tools/ada/slurm.html",
-      "/tools/ada/hardware.html",
-      "/tools/ada/hpc-101.html",
-      "/tools/ada/open-ondemand.html",
-      "/tools/ada/yoda.html",
-      "/tools/ada/help.html",
-      "/tools/ada/code-examples/Python/1-python-multithreading.html",
-      "/tools/ada/code-examples/Python/2-python-multiprocessing.html",
-      "/tools/ada/code-examples/Python/3-python-pytorch.html",
-      "/tools/ada/code-examples/R/1-R-multiprocessing.html",
-      "/tools/ada/code-examples/matlab.html"
-    ]
-  },
-  {
-    "listing": "/tools/pure/index.html",
-    "items": [
-      "/tools/pure/registration/data-registration.html",
-      "/tools/pure/registration/software-registration.html"
-    ]
-  },
-  {
-    "listing": "/tools/ithenticate/index.html",
-    "items": [
-      "/tools/ithenticate/advanced_settings/doc_to_doc_comparison.html",
-      "/tools/ithenticate/advanced_settings/folder_options.html",
-      "/tools/ithenticate/advanced_settings/url_phrase_exclusion.html",
-      "/tools/ithenticate/getting_started/exporting_results.html",
-      "/tools/ithenticate/getting_started/first_scan.html",
-      "/tools/ithenticate/getting_started/getting_started.html",
-      "/tools/ithenticate/getting_started/log_in.html",
-      "/tools/ithenticate/interpreting_sim_scores/similarity_scores.html",
-      "/tools/ithenticate/similarity_report/faq.html",
-      "/tools/ithenticate/similarity_report/similarity_report.html"
+      "/tools/ada.html",
+      "/tools/compute-hub.html",
+      "/tools/nebula.html",
+      "/tools/osf.html",
+      "/tools/pure.html",
+      "/tools/qualtrics.html",
+      "/tools/researchcloud.html",
+      "/tools/researchdrive.html",
+      "/tools/scicloud.html",
+      "/tools/scistor.html",
+      "/tools/scisure.html",
+      "/tools/snellius.html",
+      "/tools/yoda.html"
     ]
   },
   {
@@ -91,78 +202,17 @@
     ]
   },
   {
-    "listing": "/tools/yoda/index.html",
+    "listing": "/tools/scistor/index.html",
     "items": [
-      "/tools/yoda/data_access/data_access_linux.html",
-      "/tools/yoda/data_access/data_access_macos.html",
-      "/tools/yoda/data_access/data_access_windows.html",
-      "/tools/yoda/data_access/introduction.html",
-      "/tools/yoda/data_access/yoda_dap.html",
-      "/tools/yoda/data_access/yoda_using_cyberduck.html",
-      "/tools/yoda/data_access/yoda_using_cyberduck_cryptometer.html",
-      "/tools/yoda/data_access/yoda_using_icommands.html",
-      "/tools/yoda/data_access/yoda_using_python.html",
-      "/tools/yoda/data_access/yoda_using_rclone.html",
-      "/tools/yoda/data_access/yoda_using_webdrive.html",
-      "/tools/yoda/data_access/yoda_using_windowsexplorer.html",
-      "/tools/yoda/data_access/yoda_using_winscp.html",
-      "/tools/yoda/faq/faq.html",
-      "/tools/yoda/faq/known_issues.html",
-      "/tools/yoda/securing_distribution/vault_archive.html",
-      "/tools/yoda/securing_distribution/vault_publish.html",
-      "/tools/yoda/using_yoda/analysing_data.html",
-      "/tools/yoda/using_yoda/finding_restoring.html",
-      "/tools/yoda/using_yoda/metadata.html",
-      "/tools/yoda/using_yoda/properties_and_explanation.html",
-      "/tools/yoda/using_yoda/workflow_metadata.html",
-      "/tools/yoda/using_yoda/workflow_metadata_license.html",
-      "/tools/yoda/yoda_portal/group_manager.html",
-      "/tools/yoda/yoda_portal/index.html",
-      "/tools/yoda/yoda_portal/introduction.html",
-      "/tools/yoda/yoda_portal/logging_in.html",
-      "/tools/yoda/yoda_portal/notifications.html",
-      "/tools/yoda/yoda_portal/sram_invitations_eduid_activation.html"
+      "/tools/scistor/scistor-connection.html",
+      "/tools/scistor/snapshots-data-recovery.html"
     ]
   },
   {
-    "listing": "/blog.html",
+    "listing": "/tools/pure/index.html",
     "items": [
-      "/blog/2025-07-28manuals.html",
-      "/blog/2025-07-29itvoblog.html",
-      "/blog/2025-07-24hackathon.html",
-      "/blog/2025-05-15embed-iframe.html",
-      "/blog/2024-11-28hackathon.html",
-      "/blog/2024-11-01hackathon.html",
-      "/blog/2024-10-22post-mortem.html",
-      "/blog/2024-09-30hackathon.html",
-      "/blog/2024-09-05hackathon.html",
-      "/blog/2024-06-27hackathon.html",
-      "/blog/2024-05-23welcome.html"
-    ]
-  },
-  {
-    "listing": "/guides.html",
-    "items": [
-      "/guides/publish-and-share.html",
-      "/guides/comply-with-gdpr.html",
-      "/guides/discover-and-initiate.html",
-      "/guides/collect-and-store.html",
-      "/guides/process-and-analyse.html",
-      "/guides/document-and-preserve.html",
-      "/guides/onboarding.html",
-      "/guides/publishing-fair-software.html",
-      "/guides/plan-and-design.html",
-      "/guides/use-osf.html",
-      "/guides/policies-supporting-vision-open-science.html",
-      "/guides/data-lifecycle.html",
-      "/guides/offboarding.html"
-    ]
-  },
-  {
-    "listing": "/lifecycle/04-process-analyse.html",
-    "items": [
-      "/guides/process-and-analyse.html",
-      "/guides/use-osf.html"
+      "/tools/pure/registration/data-registration.html",
+      "/tools/pure/registration/software-registration.html"
     ]
   },
   {
@@ -191,38 +241,6 @@
     ]
   },
   {
-    "listing": "/tools.html",
-    "items": [
-      "/tools/ada.html",
-      "/tools/compute-hub.html",
-      "/tools/nebula.html",
-      "/tools/osf.html",
-      "/tools/pure.html",
-      "/tools/qualtrics.html",
-      "/tools/researchcloud.html",
-      "/tools/researchdrive.html",
-      "/tools/scicloud.html",
-      "/tools/scistor.html",
-      "/tools/scisure.html",
-      "/tools/snellius.html",
-      "/tools/yoda.html"
-    ]
-  },
-  {
-    "listing": "/lifecycle/02-plan-design.html",
-    "items": [
-      "/topics/data-classification.html",
-      "/topics/data-management-plan.html",
-      "/topics/data-management-section.html",
-      "/topics/ethical-review.html",
-      "/topics/gdpr.html",
-      "/topics/research-data-and-software-management-policy.html",
-      "/guides/comply-with-gdpr.html",
-      "/guides/onboarding.html",
-      "/guides/plan-and-design.html"
-    ]
-  },
-  {
     "listing": "/lifecycle/05-document-preserve.html",
     "items": [
       "/topics/data-archiving.html",
@@ -234,24 +252,6 @@
       "/topics/software-archiving.html",
       "/topics/selecting-data.html",
       "/guides/document-and-preserve.html"
-    ]
-  },
-  {
-    "listing": "/lifecycle/03-collect-store.html",
-    "items": [
-      "/topics/data-backup.html",
-      "/topics/data-collection.html",
-      "/topics/data-protection.html",
-      "/topics/data-storage.html",
-      "/guides/collect-and-store.html",
-      "/guides/use-osf.html"
-    ]
-  },
-  {
-    "listing": "/tools/scistor/index.html",
-    "items": [
-      "/tools/scistor/scistor-connection.html",
-      "/tools/scistor/snapshots-data-recovery.html"
     ]
   }
 ]
