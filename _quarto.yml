@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  site-url: "https://ubvu.github.io/open-handbook"
+  site-url: "https://peer35.github.io/handbook-variant1"
   title: "Research Support Handbook"
   description: "A place for all things open research at VU Amsterdam."
   favicon: public/favicon.png
