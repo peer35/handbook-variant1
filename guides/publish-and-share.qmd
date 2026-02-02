@@ -1,0 +1,123 @@
+---
+title: How can you archive and publish your data?
+image: '/public/cover-images/DALLE_sharing-research-data.jpg'
+description: "All data and software leading to a published result, must be archived and published."
+categories: ["Publish & Share"]
+---
+
+## Selecting an Archive
+
+### Data archiving: mid- or long-term?
+
+In the Data Management Plan the researcher describes if the data will be stored for the mid or the long term.
+
+![A monochrome picture of two women operating the ENIAC, an early computer](../public/Two_women_operating_ENIAC.gif)
+
+#### Mid-term archive
+
+According to the [VU Research Data and Software Management Policy](../topics/research-data-and-software-management-policy.qmd), all publication-related data should be archived for at least **ten years** for verification and replication of research. For this purpose, VU Amsterdam offers researchers two options to archive their data in one of the organisational repositories (DataverseNL and Yoda). Other archival options may be used depending on the discipline as described in faculty data management policy documents.  
+
+#### Long-term archive
+
+Data relevant for future research should be archived for the long term. A dataset is relevant for future research when at least one of the following general criteria applies:
+
+1. The data have a scientific or historical value
+2. The data are unique
+3. Others may want to reuse the data
+4. The data cannot be reproduced
+
+Researchers should bear in mind that repositories can charge for archiving data. These costs can vary according to the data volume and the archive used. It is important that you consider in advance how you will budget for these costs. Whatever archiving option is used, proper descriptions of the dataset(s) and adding [metadata](../topics/metadata.qmd) are important.
+
+### Deposit your data
+
+VU Amsterdam requests that researchers archive the data used in a publication in a repository for at least ten years after the release of the publication (see also [VU Policies & Regulations](../guides/plan-and-design.qmd#policies-regulations)). There are a lot of digital archives and many more keep appearing.
+
+The right archival option depends on the nature of the data and the field of science as described in faculty or departmental data management policy documents. The university offers 2 different general repositories for data archiving. The RDM Support Desk and faculty data stewards can help researchers with the selection of a repository that meets all the relevant criteria of privacy (sensitivity), dataset size, etc.
+
+1. [DataverseNL](../topics/dataversenl.qmd) - an online platform for the publication of citable research data in a semi-open environment. DataverseNL allows users to link publications to datasets directly, and to share the data through online archives such as DANS.
+
+Specifications:
+
+* For publishing research data on the internet
+* The researcher publishing the data decides whether access to the data is public or restricted
+* Not suitable for privacy or otherwise sensitive information
+* Enables researchers to publish open data according to grant providers' regulations
+* Generates a link (persistent identifier), e.g. for data citations in publications
+* Retention period is at least 10 years
+
+2. [Yoda](../topics/yoda.qmd) - besides [active storage](../topics/data-storage.qmd), Yoda also has an archive function: the vault. You can use the vault in two ways:
+
+* For archiving data securely; data are only available for verification purposes and may be access only by special request. A special procedure will be followed if anyone requests access to the data in order to verify them.
+* For publishing data; data can be available for anyone, or on request. The data will get a persistent identifier as well.
+
+Before sending data to the vault, you will need to add [metadata](../topics/metadata.qmd). A data steward, metadata specialist or functional manager can help you with the metadata and the entire process of sending data to the vault. Please get in touch with the [RDM Support Desk](mailto:rdm@vu.nl?subject=Sending%20data%20to%20the%20Yoda%20vault) to find this help.
+
+### Choosing a different repository
+
+Besides the repositories offered by VU Amsterdam, there are many others. **Unless you are working with personal or otherwise confidential data** and you need to archive them in Yoda, you are, in principle, free to choose a different repository from the ones hosted by VU Amsterdam.
+
+There can be various reasons to decide to use a different repository, including funder requirements, preferences of research partners, and a repository being a common choice in your field. For example, Dutch archaeologists mostly use [DANS Data Stations](https://dans.knaw.nl/en/data-stations/archaeology/) to deposit and publish their data. Using a repository that is a common choice in your field will make your data more findable for your colleagues and increase the visibility of your work as a researcher. Some of the data repositories most commonly used in the Netherlands include:
+
+* [DANS Data Stations](https://dans.knaw.nl/en/): a collection of four domain-specific repositories hosted by the Data Archiving and Networked Services (DANS), an institute of NWO and KNAW (Koninklijke Nederlandse Akademie van Wetenschappen). They have Data Stations for Social Sciences and Humanities, Archaeology, Life Sciences, and Physical and Technical Sciences. DANS also develops policies, services and new infrastructures for research data and provides researchers with advice on how to preserve their data. VU researchers are also welcome to deposit their data at DANS Data Stations;
+* [4TU.ResearchData](https://data.4tu.nl): a repository for science, engineering and design data hosted by the 4TU Federation. This is a consortium of the four Dutch technical universities: TU Delft, TU Eindhoven, University of Twente and Wageningen University and Research. VU researchers are also welcome to deposit their data at 4TU;
+* [Zenodo](https://zenodo.org/): a domain-agnostic research data repository hosted by CERN in Switzerland and funded by the European Commission. Zenodo does not only host data, but also presentations, conference procedures and policy documents. It is also possible to archive GitHub repositories directly into Zenodo, by which you contribute to Open Science by making a snapshot of your code available in its current form and for the long term;
+* [OSF (Open Science Framework)](https://osf.io/): a data management and research dissemination platform. VU Amsterdam is an institutional member of the OSF, which means that you can sign up (and in) using your VU account by clicking on the Institution Button on the sign in/up pages. You can use the OSF to create registrations and preregistrations for your research, to publish preprints, and publish and share data and documentation. You can also link other repositories such as DataverseNL to your OSF project. The same goes for GitHub and storage options such as Research Drive and Surfdrive. Do be careful about what you connect! A full guide for VU OSF users, including instructions about connecting external storage can be found [here](https://osf.io/abwzm/).
+
+You can also find repositories via the [Registry of Research Data Repositories](https://www.re3data.org/). When you are choosing a repository, it is important to check that it provides all the services you need. A good way to find out is to check if a repository as a [Core Trust Seal](https://www.coretrustseal.org/why-certification/certified-repositories/), which is a form of certification for quality repositories. But if a repository does not have the Core Trust Seal, it does not necessarily mean it is not a good repository. As a minimum, you should check that:
+
+* The repository provides [a persistent identifier](../topics/persistent-identifier.qmd), such as a DOI;
+* The repository enables you to add rich [metadata](../topics/metadata.qmd) to your dataset and ideally follows an internationally recognised metadata standard, such as Dublin Core or DataCite;
+* The repository offers functionality to publish data with an embargo or under restrictions, if you need that;
+* The repository allows you to add a [licence](#data-publication) to the dataset;
+* The repository is funded sustainably for at least the next 50 years;
+* And, in some cases, that the repository's servers are located in the EU.
+
+More recommendations for choosing a data repository can be found on [CESSDA](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/6.-Archive-Publish/Data-publishing-routes).
+
+If you would like advice about what would be a good place for you to archive your research data, you can always reach out to the [RDM Support Desk](mailto:rdm@vu.nl).
+
+## Alternative strategies
+
+### Publishing your data in a data journal
+
+Instead of archiving research data in a data repository, you may choose to publish an article about your data collection. This is not necessarily common for all disciplines. Some examples of data journals where you can publish your data and dataset, are:
+
+* [Scientific Data - Nature](https://www.nature.com/sdata/aims-and-scope)
+* [Geoscience Data Journal](https://doi.org/10.1002/(ISSN)2049-6060)
+* [Gigascience](https://academic.oup.com/gigascience)
+* [Journal of Physical and Chemical Reference Data](https://scitation.aip.org/content/aip/journal/jpcrd/browse)
+* [Earth System Science Data](https://earth-system-science-data.net/)
+* [Journal of Open Archaeology Data](https://openarchaeologydata.metajnl.com/)
+* [Journal of Open Psychology Data](https://openpsychologydata.metajnl.com/)
+
+### Publishing your data as supplementary information with your article
+
+Another way to make your data available, is to add them as supplementary information with your article in a journal. At first sight, this may seem a practical solution, because the publication and the underlying data in that case appear together as part of a single publication. However, making your data available as a seperate piece of research output has other advantages:
+
+* The dataset will be citable on its own, which also enables you to get acknowledged for the work on your dataset
+* Datasets with many files or many different types of files are easier to structure and present in a repository
+* You can assign different levels of accessibility (unrestricted, restricted or closed) if necessary, which is not possible in a publication
+* You don't transfer copyright of your data publication to the publisher of your article
+
+If you make your data available through a repository, you can link from your article to your dataset and the other way around, so that you can present them as related research output.
+
+## Persistent Identifier
+
+```{.include shift-heading-level-by=2}
+../topics/persistent-identifier.qmd
+```
+## Licensing data and software
+
+```{.include shift-heading-level-by=2}
+../topics/data-licensing.qmd
+```
+
+```{.include shift-heading-level-by=2}
+../topics/software-licensing.qmd
+```
+
+## Dataset Registration
+
+```{.include shift-heading-level-by=2}
+../tools/pure/registration/data-registration.qmd
+```

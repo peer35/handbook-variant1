@@ -1,0 +1,30 @@
+on:
+  workflow_dispatch:
+  push:
+    branches: main
+  schedule:
+    - cron: '0 6 * * *'  # Run daily at 6 AM UTC
+
+name: Quarto Publish
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Fix timestamps
+        run:  bash .github/scripts/fix-timestamps
+
+      - name: Render and Publish
+        uses: quarto-dev/quarto-actions/publish@v2
+        with:
+          target: gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

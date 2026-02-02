@@ -1,0 +1,25 @@
+website:
+  sidebar:
+    - id: sb-ithenticate # will show up automatically on pages referenced in contents.
+      style: floating
+      search: true
+      contents:
+      - tools/ithenticate/index.qmd
+      - section: Getting Started
+        contents:
+          - tools/ithenticate/getting_started/getting_started.qmd
+          - tools/ithenticate/getting_started/log_in.qmd
+          - tools/ithenticate/getting_started/first_scan.qmd
+          - tools/ithenticate/getting_started/exporting_results.qmd
+      - section: Similarity Report
+        contents:
+          -  tools/ithenticate/similarity_report/similarity_report.qmd
+      - section: Similarity Scores
+        contents:
+          - tools/ithenticate/interpreting_sim_scores/similarity_scores.qmd
+      - section: Advanced Settings
+        contents:
+          - tools/ithenticate/advanced_settings/folder_options.qmd
+          - tools/ithenticate/advanced_settings/url_phrase_exclusion.qmd
+          - tools/ithenticate/advanced_settings/doc_to_doc_comparison.qmd
+          

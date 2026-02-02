@@ -1,0 +1,36 @@
+name: Check External Links
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  check-links:
+    if: github.event.pull_request.head.repo.owner.login == github.event.pull_request.base.repo.owner.login
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Get changed .qmd files
+        id: changed-files
+        uses: tj-actions/changed-files@v44
+        with:
+          files: "**/*.qmd"
+
+      - name: Run lychee-action on changed files
+        if: steps.changed-files.outputs.any_changed == 'true'
+        id: lychee
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: "${{ steps.changed-files.outputs.all_changed_files }} --exclude doi.org --exclude data.4tu.nl --exclude isbn.org --exclude github.com/ubvu/open-handbook"
+          format: markdown
+          jobSummary: true
+
+      - name: Comment PR
+        if: steps.changed-files.outputs.any_changed == 'true'
+        uses: thollander/actions-comment-pull-request@v2
+        with:
+          filePath: ./lychee/out.md
