@@ -11,8 +11,8 @@ jobs:
   build-deploy:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
-      metadata: read
+      - contents: write
+      - metadata: read
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
