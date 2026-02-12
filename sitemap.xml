@@ -42,7 +42,7 @@
   </url>
   <url>
     <loc>https://peer35.github.io/handbook-variant1/guides/onboarding.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://peer35.github.io/handbook-variant1/guides/publish-and-share.html</loc>
@@ -89,148 +89,148 @@
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/researchcloud.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/pure.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/scistor/scistor-connection.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/scistor/snapshots-data-recovery.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/scistor/index.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/interpreting_sim_scores/similarity_scores.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/getting_started/exporting_results.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/getting_started/log_in.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/getting_started/getting_started.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/getting_started/first_scan.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/similarity_report/similarity_report.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/similarity_report/faq.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/advanced_settings/folder_options.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/advanced_settings/url_phrase_exclusion.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/advanced_settings/doc_to_doc_comparison.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/index.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ada/code-examples/R/1-R-multiprocessing.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ada/code-examples/Python/2-python-multiprocessing.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ada/code-examples/Python/1-python-multithreading.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ada/code-examples/Python/3-python-pytorch.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ada/code-examples/matlab.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ada/open-ondemand.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ada/getting-started/6-yoda.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ada/getting-started/7-firstjob.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ada/getting-started/1-login.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ada/getting-started/2-software.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ada/getting-started/9-requestsoftware.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ada/getting-started/8-askingforhelp.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ada/getting-started/4-slurm.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ada/yoda.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ada/getting-started/3-hardware.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ada/hpc-101.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ada/help.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ada/login.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ada/hardware.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ada/slurm.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ada/software.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ada/quick-start.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ada/index.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_using_cyberduck_cryptometer.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/scistor.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/getting_started.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_portal/introduction.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/vault_publish.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_portal/notifications.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/analysing_data.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_portal/index.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/sram_invitations_eduid_activation.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/using_yoda/analysing_data.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_using_icommands.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/using_yoda/workflow_metadata.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/workflow_metadata_license.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/using_yoda/metadata.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_cost_access.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/data_access/data_access_macos.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/workflow_metadata.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/data_access/introduction.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/portal_introduction.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/data_access/yoda_using_rclone.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/properties_and_explanation.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/data_access/yoda_using_windowsexplorer.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_using_winscp.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/data_access/yoda_using_webdrive.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/metadata.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/data_access/data_access_linux.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/securing_distribution/vault_publish.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/faq/known_issues.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/faq.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://peer35.github.io/handbook-variant1/tools/yoda/index.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_using_cyberduck.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://peer35.github.io/handbook-variant1/tools/qualtrics/qualtrics-faq.html</loc>
@@ -282,7 +282,7 @@
   </url>
   <url>
     <loc>https://peer35.github.io/handbook-variant1/topics/software-publishing.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://peer35.github.io/handbook-variant1/topics/finding-existing-data.html</loc>
@@ -362,7 +362,7 @@
   </url>
   <url>
     <loc>https://peer35.github.io/handbook-variant1/topics/data-licensing.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://peer35.github.io/handbook-variant1/topics/data-transfer.html</loc>
@@ -429,143 +429,143 @@
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/faq/faq.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/data_access_linux.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_using_python.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/group_manager.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_using_webdrive.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/notifications.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_using_windowsexplorer.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/data_access_introduction.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_dap.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/logging_in.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_using_rclone.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/vault_archive.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/data_access_windows.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/finding_restoring.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/data_access_macos.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/known_issues.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/scistor.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/securing_distribution/vault_archive.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ada/index.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/data_access/yoda_using_cyberduck.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ada/software.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/data_access/yoda_using_python.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ada/hardware.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/data_access/yoda_using_winscp.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ada/help.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/data_access/yoda_dap.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ada/getting-started/3-hardware.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/data_access/yoda_using_icommands.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ada/getting-started/4-slurm.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/data_access/data_access_windows.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ada/getting-started/9-requestsoftware.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/data_access/yoda_using_cyberduck_cryptometer.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ada/getting-started/1-login.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/using_yoda/properties_and_explanation.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ada/open-ondemand.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/using_yoda/workflow_metadata_license.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ada/code-examples/Python/3-python-pytorch.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/using_yoda/finding_restoring.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ada/code-examples/Python/2-python-multiprocessing.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_portal/group_manager.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/index.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_portal/logging_in.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/advanced_settings/url_phrase_exclusion.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_portal/sram_invitations_eduid_activation.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/similarity_report/faq.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ada/quick-start.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/getting_started/first_scan.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ada/slurm.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/getting_started/log_in.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ada/login.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/interpreting_sim_scores/similarity_scores.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ada/hpc-101.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/scistor/snapshots-data-recovery.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ada/yoda.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ada/getting-started/8-askingforhelp.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ada/getting-started/2-software.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ada/getting-started/7-firstjob.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ada/getting-started/6-yoda.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ada/code-examples/matlab.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ada/code-examples/Python/1-python-multithreading.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ada/code-examples/R/1-R-multiprocessing.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/advanced_settings/doc_to_doc_comparison.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/advanced_settings/folder_options.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/similarity_report/similarity_report.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/getting_started/getting_started.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/getting_started/exporting_results.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/scistor/index.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/scistor/scistor-connection.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/researchcloud.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/pure.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
