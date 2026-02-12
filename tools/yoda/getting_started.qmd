@@ -1,0 +1,18 @@
+---
+title: Getting started
+---
+You can find practical for users starting with Yoda on the Handbook. The documentation is split into the following sections:
+
+- **Yoda Portal** - Describes the functionality of the Yoda web portal, including inviting colleagues.
+
+- **Using Yoda** - Practical tips on adding metadata and using Yoda in your workflow.
+
+- **Securing and Distributing Data** - How to archive and publish your data in Yoda.
+
+- **Data Access and Transfer** - Different ways to upload and download your data.
+
+More information can be found on the [SURF User Knowledge base](https://servicedesk.surf.nl/wiki/display/WIKI/Yoda+Hosting).
+
+The [Yoda site of Utrecht University](https://www.uu.nl/en/research/Yoda) also contains useful information and is being redeveloped so it can also be used by VU Amsterdam and the other Consortium Partners.
+
+{{< include /tools/yoda/_yoda_contact.qmd >}}

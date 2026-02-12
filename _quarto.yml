@@ -105,7 +105,6 @@ format:
       - custom.scss # https://quarto.org/docs/output-formats/html-themes.html#theme-options
     code-copy: true
     code-overflow: wrap
-    date: last-modified
 # from: "markdown+emoji"
 filters:
   - utils/include-files.lua
