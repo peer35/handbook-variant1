@@ -8,12 +8,12 @@ website:
         - section: Yoda
           contents:
           - text: What is Yoda?
-            href: tools/yoda/index.qmd
+            href: tools/yoda/yoda_what_is.qmd
           - tools/yoda/yoda_cost_access.qmd
           - tools/yoda/contact_support.qmd
+          - tools/yoda/getting_started.qmd
           - section: Documentation
             contents:
-            - tools/yoda/getting_started.qmd
             - section: Yoda Portal
               contents:
                 - tools/yoda/portal_introduction.qmd

@@ -3,6 +3,7 @@ title: "Tools"
 listing:
   contents: 
     - "tools/*.qmd"
+    - tools/yoda/yoda_what_is.qmd
   sort: false # sort as defined above
   filter-ui: [title]
   type: grid
