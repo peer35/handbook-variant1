@@ -1,12 +1,11 @@
 ---
 title: Costs and requesting access
 ---
-yadayada
 
 ## How to request access
-Requesting space is done via a 🔒 [request form on ServiceNow](https://services.vu.nl/esc?id=sc_cat_item&sys_id=20436ee397c6a910e553359fe153aff1).Please note that because there can be costs involved (see below) you need to supply a budget code.
+Requesting a project folder on Yoda is done via a 🔒 [request form on ServiceNow](https://services.vu.nl/esc?id=sc_cat_item&sys_id=20436ee397c6a910e553359fe153aff1).Please note that because there can be costs involved (see below) you need to supply a budget code.
 
-Once the project space has been created you can start to invite your collaborators yourself. Note that VU students must 🔒 [connect a token to SURFsecureID](https://services.vu.nl/kb_view.do?sysparm_article=KB0011809) to be able to log in.
+Once the project folder has been created you can start to invite your collaborators yourself. Note that VU students must 🔒 [connect a token to SURFsecureID](https://services.vu.nl/kb_view.do?sysparm_article=KB0011809) to be able to log in.
 
 ### Intake procedure
 When you work with sensitive data we will always schedule a meeting with you to help you to safely work with your data.
