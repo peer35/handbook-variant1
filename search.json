@@ -4490,7 +4490,7 @@
     "href": "tools/yoda/yoda_cost_access.html",
     "title": "Costs and requesting access",
     "section": "",
-    "text": "yadayada",
+    "text": "Requesting a project folder on Yoda is done via a 🔒 request form on ServiceNow.Please note that because there can be costs involved (see below) you need to supply a budget code.\nOnce the project folder has been created you can start to invite your collaborators yourself. Note that VU students must 🔒 connect a token to SURFsecureID to be able to log in.\n\n\nWhen you work with sensitive data we will always schedule a meeting with you to help you to safely work with your data.\nIn the form you can also indicate if you would like some help getting started with Yoda. We can either schedule a short 15 minute meeting to get you started or a longer meeting to have a closer look at your data and help you setting up a workflow.",
     "crumbs": [
       "Yoda",
       "Costs and requesting access"
@@ -4500,8 +4500,8 @@
     "objectID": "tools/yoda/yoda_cost_access.html#how-to-request-access",
     "href": "tools/yoda/yoda_cost_access.html#how-to-request-access",
     "title": "Costs and requesting access",
-    "section": "How to request access",
-    "text": "How to request access\nRequesting space is done via a 🔒 request form on ServiceNow.Please note that because there can be costs involved (see below) you need to supply a budget code.\nOnce the project space has been created you can start to invite your collaborators yourself. Note that VU students must 🔒 connect a token to SURFsecureID to be able to log in.\n\nIntake procedure\nWhen you work with sensitive data we will always schedule a meeting with you to help you to safely work with your data.\nIn the form you can also indicate if you would like some help getting started with Yoda. We can either schedule a short 15 minute meeting to get you started or a longer meeting to have a closer look at your data and help you setting up a workflow.",
+    "section": "",
+    "text": "Requesting a project folder on Yoda is done via a 🔒 request form on ServiceNow.Please note that because there can be costs involved (see below) you need to supply a budget code.\nOnce the project folder has been created you can start to invite your collaborators yourself. Note that VU students must 🔒 connect a token to SURFsecureID to be able to log in.\n\n\nWhen you work with sensitive data we will always schedule a meeting with you to help you to safely work with your data.\nIn the form you can also indicate if you would like some help getting started with Yoda. We can either schedule a short 15 minute meeting to get you started or a longer meeting to have a closer look at your data and help you setting up a workflow.",
     "crumbs": [
       "Yoda",
       "Costs and requesting access"
