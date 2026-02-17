@@ -1377,164 +1377,8 @@
     ]
   },
   {
-    "objectID": "tools/yoda/group_manager.html",
-    "href": "tools/yoda/group_manager.html",
-    "title": "Managing Groups, Users and Access Rights",
-    "section": "",
-    "text": "All data in a Yoda Project is stored in 2 main data folders associated with a single access group.\nThe name of such an access Group, also known as a research group, always starts with “research-”. Files in a research group are only visible and accessible to users who have been granted access to that group.\nUsers can have three different roles in a group:\nThese access rights are applied to the top-level and all subfolders and files of the Research Folder.",
-    "crumbs": [
-      "Yoda",
-      "Documentation",
-      "Yoda Portal",
-      "Managing Groups, Users and Access Rights"
-    ]
-  },
-  {
-    "objectID": "tools/yoda/group_manager.html#how-to-granting-access-to-a-group",
-    "href": "tools/yoda/group_manager.html#how-to-granting-access-to-a-group",
-    "title": "Managing Groups, Users and Access Rights",
-    "section": "How to: Granting access to a group",
-    "text": "How to: Granting access to a group\nIf you are the group manager of a group, you will be able to add users to the group in the following way:\n\nNavigate to the Yoda portal.\nLog in with your email address.\nClick on the button on the top-right with your username.\n\n\n\n\nGroup manager\n\n\n\nIn the left pane of the Group Manager, select the group.\nClick on the link “Click here to add a new user to the group”.\nEnter the email address of the user. The address must be entered entirely in lower case.\nIf the email address is new for Yoda you will have the option to create the user otherwise you add the existing user to this group.\n\n\n\n\nAdding user\n\n\nThe added user will receive an invitation to join the connected SRAM collaboration. Most users will be able to log in with their own institutional account, if their institute is not connected to SRAM they need to create an eduID (NL) account.\nBy default, a new user will be a regular member of the group. If you want the user to be a member with read-only access or a group manager, see below for how to change users’ roles.",
-    "crumbs": [
-      "Yoda",
-      "Documentation",
-      "Yoda Portal",
-      "Managing Groups, Users and Access Rights"
-    ]
-  },
-  {
-    "objectID": "tools/yoda/group_manager.html#how-to-changing-the-role-of-a-user-in-a-group",
-    "href": "tools/yoda/group_manager.html#how-to-changing-the-role-of-a-user-in-a-group",
-    "title": "Managing Groups, Users and Access Rights",
-    "section": "How to: Changing the role of a user in a group",
-    "text": "How to: Changing the role of a user in a group\nIf you are the group manager of a group, you will be able to alter the role of other members.\nUsers can have three different roles in a group:\n\nMember with read-only access: is able to view or download files in the group.\nRegular member: can view, download, upload, modify or delete files and folders in the group.\nGroup manager: is able to grant and revoke access rights for the group. Can also view, download, upload, modify or delete files and folders in the group.\n\nIn order to change the role of a group member:\n\nNavigate to the Yoda portal.\nLog in.\nClick on the button on the top-right with your username.\n\n\n\n\nGroup manager\n\n\n\nIn the left pane of the Group Manager, select the group.\nIn the right pane of the Group Manager, select the user.\nPress one of the buttons next to the “Change role” label to change the user’s role.\n\n\n\n\nSetting user rights\n\n\nNote that you can only change the role of the user after they have accepted the SRAM invitation.",
-    "crumbs": [
-      "Yoda",
-      "Documentation",
-      "Yoda Portal",
-      "Managing Groups, Users and Access Rights"
-    ]
-  },
-  {
-    "objectID": "tools/yoda/group_manager.html#how-to-revoking-access-to-a-group",
-    "href": "tools/yoda/group_manager.html#how-to-revoking-access-to-a-group",
-    "title": "Managing Groups, Users and Access Rights",
-    "section": "How to: Revoking access to a group",
-    "text": "How to: Revoking access to a group\nIf you are the group manager of a group, you will be able to revoke access to a group in the following way:\n\nNavigate to the Yoda portal.\nLog in.\nClick on the button on the top-right with your username.\n\n\n\n\nGroup manager\n\n\n\nIn the left pane of the Group Manager, select the group.\nIn the right pane of the Group Manager, select the user.\nClick on the red “Remove user” button.\n\n\n\n\nRemoving user\n\n\nNote that you can only remove a user after they have accepted the SRAM invitation.",
-    "crumbs": [
-      "Yoda",
-      "Documentation",
-      "Yoda Portal",
-      "Managing Groups, Users and Access Rights"
-    ]
-  },
-  {
-    "objectID": "tools/yoda/vault_publish.html",
-    "href": "tools/yoda/vault_publish.html",
-    "title": "Publishing data",
-    "section": "",
-    "text": "After a data package has been archived in the vault, it can optionally be submitted for publication.\nPublishing a data package has the following effects:\nThe VU Yoda repository page on DataCite Commons shows statistics of datasets currently published in VU Yoda.",
-    "crumbs": [
-      "Yoda",
-      "Documentation",
-      "Securing and Distributing Data",
-      "Publishing data"
-    ]
-  },
-  {
-    "objectID": "tools/yoda/vault_publish.html#how-to-submitting-a-dataset-for-publication",
-    "href": "tools/yoda/vault_publish.html#how-to-submitting-a-dataset-for-publication",
-    "title": "Publishing data",
-    "section": "How to: Submitting a dataset for publication",
-    "text": "How to: Submitting a dataset for publication\n\nNavigate to the data package in the vault and press the Submit for publication button.\n\n\n\n\nSubmit for publication\n\n\n\nOnce you’ve submitted a data package for publication, the data manager of your Yoda community will be notified. The data manager will check that the data package meets various criteria for publication.\nIf the data manager encounters any issues, you will be contacted. Otherwise you’ll receive a notification that your data package has been published. This notification contains the DOI that has been assigned to your data package.\n\nNote: If needed a data manager can update metadata of a dataset after it has been published.",
-    "crumbs": [
-      "Yoda",
-      "Documentation",
-      "Securing and Distributing Data",
-      "Publishing data"
-    ]
-  },
-  {
-    "objectID": "tools/yoda/vault_publish.html#long-term-accessibility",
-    "href": "tools/yoda/vault_publish.html#long-term-accessibility",
-    "title": "Publishing data",
-    "section": "Long-term accessibility",
-    "text": "Long-term accessibility\nYoda ensures there is always a data manager assigned to a Vault who can access Restricted and Closed datasets even if the creators no longer have an account.",
-    "crumbs": [
-      "Yoda",
-      "Documentation",
-      "Securing and Distributing Data",
-      "Publishing data"
-    ]
-  },
-  {
-    "objectID": "tools/yoda/vault_publish.html#searching-for-unpublished-datasets",
-    "href": "tools/yoda/vault_publish.html#searching-for-unpublished-datasets",
-    "title": "Publishing data",
-    "section": "Searching for unpublished datasets",
-    "text": "Searching for unpublished datasets\nYou can search for datasets that are archived but not (yet) published using the Search by Status function in the Yoda Portal. The list of data packages will include only the data packages of project groups of which you are a member. Click on a data package in the results list in order to view it.\n\n\n\nUnpublished data packages",
-    "crumbs": [
-      "Yoda",
-      "Documentation",
-      "Securing and Distributing Data",
-      "Publishing data"
-    ]
-  },
-  {
-    "objectID": "tools/yoda/yoda_using_python.html",
-    "href": "tools/yoda/yoda_using_python.html",
-    "title": "Using Python",
-    "section": "",
-    "text": "Data in Yoda is not directly accessible, you have to download data to the machine that contains your analysis software first. If you do your analysis with Python scripts anyway, for example on Snellius or Ada, it can be useful to script the data access and transfer as well.",
-    "crumbs": [
-      "Yoda",
-      "Documentation",
-      "Data Access and Transfer",
-      "Using Python"
-    ]
-  },
-  {
-    "objectID": "tools/yoda/yoda_using_python.html#python-irods-client",
-    "href": "tools/yoda/yoda_using_python.html#python-irods-client",
-    "title": "Using Python",
-    "section": "Python iRODS Client",
-    "text": "Python iRODS Client\nThe Python iRODS Client (PRC) is the default way to access data in iRODS programatically.\n\nInstall\npip install python-irodsclient\n\n\nSetting up a session to access Yoda\nThe easiest way to setup a session to Yoda is by using the information in the irods environment file.\nThe code below sets up a session using all the correct settings for Yoda:\nimport json\nfrom irods.session import iRODSSession\nfrom pathlib import Path\nfrom getpass import getpass\nimport ssl\n\ndef get_irods_environment(irods_environment_file):\n    \"\"\"Reads the irods_environment.json file, which contains the environment configuration.\"\"\"\n\n    print(\n        f\"Trying to retrieve connection settings from: {irods_environment_file}\"\n    )\n\n    try:\n        with open(irods_environment_file, \"r\") as f:\n            return json.load(f)\n    except:\n        print(f'Could not open {irods_environment_file}')\n        exit()\n\ndef setup_session(ca_file='/etc/ssl/certs/ca-certificates.crt'):\n    \"\"\"Use irods environment files to configure a iRODSSession. User is prompted for the password\"\"\"\n\n    irods_env = get_irods_environment(f\"{Path.home()}/.irods/irods_environment.json\")\n\n    password = getpass(f\"Enter valid DAP for user {irods_env['irods_user_name']}: \")\n\n    ssl_context = ssl.create_default_context(\n        purpose=ssl.Purpose.SERVER_AUTH, cafile=ca_file, capath=None, cadata=None\n    )\n\n    ssl_settings = {\n        \"client_server_negotiation\": \"request_server_negotiation\",\n        \"client_server_policy\": \"CS_NEG_REQUIRE\",\n        \"encryption_algorithm\": \"AES-256-CBC\",\n        \"encryption_key_size\": 32,\n        \"encryption_num_hash_rounds\": 16,\n        \"encryption_salt_size\": 8,\n        \"ssl_context\": ssl_context,\n    }\n\n    session = iRODSSession(\n        host=irods_env[\"irods_host\"],\n        port=irods_env[\"irods_port\"],\n        user=irods_env[\"irods_user_name\"],\n        password=password,\n        zone=irods_env[\"irods_zone_name\"],\n        authentication_scheme=\"pam_password\",\n        **ssl_settings,\n    )\n\n    return session\n\nsession=setup_session()\n\n# workload\ncoll=session.collections.get(f\"/{session.zone}/home\")\nfor col in coll.subcollections:\n    print(col.name)\n\n\nMore information\nYou can find more information on using the iRODS client in the README on github.",
-    "crumbs": [
-      "Yoda",
-      "Documentation",
-      "Data Access and Transfer",
-      "Using Python"
-    ]
-  },
-  {
-    "objectID": "tools/yoda/yoda_using_python.html#ibridges",
-    "href": "tools/yoda/yoda_using_python.html#ibridges",
-    "title": "Using Python",
-    "section": "iBridges",
-    "text": "iBridges\nThe PRC can be hard to use, because it requires some prior knowledge on the structure and terminology used in iRODS. For this reason, developers at Utrecht University created iBridges, which makes it easier to do basic file and metadata manipulation in iRODS.\n\nInstallation\nInstallation is again as simple as:\npip install ibridges\n\n\nConnecting\nTo connect you will need the irods environment file. iBridges expects the file to be in ~/.irods/irods_environment.json but you can point it to a different location.\nfrom ibridges import Session\nfrom pathlib import Path\nfrom getpass import getpass\n\npassword = getpass(f\"Enter valid DAP: \")\nsession = Session(irods_env_path=Path.home() / \".irods\" / \"irods_environment.json\", password=password)\n\n\nUpload data\nYou can easily upload your data with the previously created session:\nfrom ibridges import upload\n\nupload(session, \"/your/local/path\", \"/irods/path\")\nThis upload function can upload both directories (collections in iRODS) and files (data objects in iRODS).\n\n\nAdd iRODS metadata\nOne of the powerful features of iRODS is its ability to store metadata with your data in a consistent manner. Let’s add some metadata to a collection or data object:\nfrom ibridges import IrodsPath\n\nipath = IrodsPath(session, \"/irods/path\")\nipath.meta.add(\"some_key\", \"some_value\", \"some_units\")\nWe have used the IrodsPath class here, which is another central class to the iBridges API. From here we have access to the metadata as shown above, but additionally there are many more convenient features directly accessible such as getting the size of a collection or data object. A detailed description of the features is present in another part of the documentation.\n\n\nDownload data\nNaturally, we also want to download the data back to our local machine. This is done with the download function:\nfrom ibridges import download\n\ndownload(session, \"/irods/path\", \"/other/local/path\")\n\n\nClosing the session\nWhen you are done with your session, you should generally close it:\nsession.close()\n\n\nMore information\nMore information on using iBridges can be found in the online documentation.",
-    "crumbs": [
-      "Yoda",
-      "Documentation",
-      "Data Access and Transfer",
-      "Using Python"
-    ]
-  },
-  {
-    "objectID": "tools/yoda/yoda_using_python.html#streaming",
-    "href": "tools/yoda/yoda_using_python.html#streaming",
-    "title": "Using Python",
-    "section": "Streaming",
-    "text": "Streaming\nWith the python-irodsclient which iBridges is built on, we can open the file inside of a data object as a stream and process the content without downloading the data. This is especially useful if you need to access data stored in large files. That works without any problems for textual data.\nfrom ibridges import IrodsPath\n\nobj_path = IrodsPath(session, \"path\", \"to\", \"object\")\nwith obj_path.open('r') as stream:\n    content = stream.read().decode()\nSome python libraries allow to be instantiated directly from such a stream. This is supported by e.g. pandas and polars for datafiles or whisper for transcription and translation of audio files.\nimport pandas as pd\n\nwith obj_path.open('r') as stream:\n    df = pd.read_csv(stream)\n\nprint(df)",
-    "crumbs": [
-      "Yoda",
-      "Documentation",
-      "Data Access and Transfer",
-      "Using Python"
-    ]
-  },
-  {
-    "objectID": "tools/yoda/index.html",
-    "href": "tools/yoda/index.html",
+    "objectID": "tools/yoda/yoda_what_is.html",
+    "href": "tools/yoda/yoda_what_is.html",
     "title": "Yoda",
     "section": "",
     "text": "Yoda is an application for institutions that supports Research Data Management (RDM) throughout the entire research cycle: from the safe and easy storage and sharing of data during the research process, to the sharing of data within research collaborations and ultimately to research data archiving and publication.\n\nYoda helps the researcher make their data “FAIR” by providing a solution that enables data discovery and sharing (i.e., findable, accessible). In addition, it facilitates the use of metadata, contributing to data interoperability and reusability. Yoda provides a platform for the implementation of standard workflows that can ensure metadata quality satisfying VU policy requirements for data archiving and publication. In addition, Yoda is built on iRODS so it accommodates both researchers with data heavy requirements, as well as those seeking an accessible, user-friendly solution.\nYoda presents researchers a comfortable, easy-to-use solution for securely storing, sharing and organising their research data that follows the internationally adopted FAIR data principles. Many research institutions and funding organisations (such as NWO and ZonMw) require researchers to make their data FAIR.\nProject space in Yoda is basically a folder with group based access rights. Access restrictions are only set on the top level, meaning you need one Project Space per research project.\nYoda is open source software developed and maintained by Utrecht University for the Yoda Consortium (VU, Wageningen University, Erasmus University, Amsterdam UMC, Utrecht University and SURF). Yoda is hosted by SURF in their Amsterdam datacentre.",
@@ -1544,8 +1388,8 @@
     ]
   },
   {
-    "objectID": "tools/yoda/index.html#what-is-it",
-    "href": "tools/yoda/index.html#what-is-it",
+    "objectID": "tools/yoda/yoda_what_is.html#what-is-it",
+    "href": "tools/yoda/yoda_what_is.html#what-is-it",
     "title": "Yoda",
     "section": "",
     "text": "Yoda is an application for institutions that supports Research Data Management (RDM) throughout the entire research cycle: from the safe and easy storage and sharing of data during the research process, to the sharing of data within research collaborations and ultimately to research data archiving and publication.\n\nYoda helps the researcher make their data “FAIR” by providing a solution that enables data discovery and sharing (i.e., findable, accessible). In addition, it facilitates the use of metadata, contributing to data interoperability and reusability. Yoda provides a platform for the implementation of standard workflows that can ensure metadata quality satisfying VU policy requirements for data archiving and publication. In addition, Yoda is built on iRODS so it accommodates both researchers with data heavy requirements, as well as those seeking an accessible, user-friendly solution.\nYoda presents researchers a comfortable, easy-to-use solution for securely storing, sharing and organising their research data that follows the internationally adopted FAIR data principles. Many research institutions and funding organisations (such as NWO and ZonMw) require researchers to make their data FAIR.\nProject space in Yoda is basically a folder with group based access rights. Access restrictions are only set on the top level, meaning you need one Project Space per research project.\nYoda is open source software developed and maintained by Utrecht University for the Yoda Consortium (VU, Wageningen University, Erasmus University, Amsterdam UMC, Utrecht University and SURF). Yoda is hosted by SURF in their Amsterdam datacentre.",
@@ -1555,14 +1399,131 @@
     ]
   },
   {
-    "objectID": "tools/yoda/index.html#what-can-it-be-used-for",
-    "href": "tools/yoda/index.html#what-can-it-be-used-for",
+    "objectID": "tools/yoda/yoda_what_is.html#what-can-it-be-used-for",
+    "href": "tools/yoda/yoda_what_is.html#what-can-it-be-used-for",
     "title": "Yoda",
     "section": "What can it be used for?",
     "text": "What can it be used for?\nThe particular strength of Yoda lies in the fact that it is an all-in-one solution for managing your data during and after your project. It makes it easy to share and organise your data and add descriptive metadata at any moment. If (part of) your datasets needs to be published during or after your project, this can be done by a few simple steps within Yoda itself. There is no need to upload your data to another platform.\n\nData storage\nYoda is a Cloud storage solution that can be used for small to very large datasets. The underlying iRODS software ensures data integrity. Data in Yoda is backed up daily.\n\n\nData sharing\nOnce a new Yoda group has been created you can invite collaborators yourself. Researchers from national and international research institutes can login with their institutional account via SURF Research Access Management (SRAM). Collaborators from non-research institutes can create a free EduID NL account.\n\n\nSensitive data\nThe use of Multi-Factor Authentication (MFA) with SRAM and hosting at SURF ensure, among other things, Yoda is suitable for the storage and sharing of data that score High on confidentiality in a data classification (see the Policy Classification of Research Data and the Research Data Classification Tool). Please make sure to contact the RDM Support Desk to check if further measures are needed.\n\n\nMetadata\nAt any moment you can add descriptive metadata to a folder in Yoda via a web form. This means you can easily organize your data in such a way that it is not only ready for archiving and publishing but also findable for your collaborators.\n\n\nArchiving\nAt any moment you can submit a data folder with metadata for Archiving in the Yoda Vault. Data in the Vault is read-only and cannot be deleted. To help make sure the dataset is suitable for archiving a Yoda datamanager (usually a data manager from your department or a faculty data steward) will review your submission before final approval. Data in the Vault is directly accessible for your collaborators. Access for the Yoda datamanager role ensures the data remains accessible on the long term.\n\n\nPublishing metadata and data\nFrom the Yoda Vault you can submit the dataset for publication. A DOI will be generated and registered with DataCite together with the metadata. DataCite ensures your dataset becomes findable on the internet and citable.\nThe DOI link will lead to a landing page in Yoda showing the metadata. The dataset itself can be Open, allowing direct download, Restricted, meaning other researchers need to follow a data request procedure, or Closed, signalling the dataset is properly archived but not available for reuse.\n\n\nAutomated workflows\nSince Yoda is build on iRODS you could also build (automated) ingest and analysis workflows using iRODS Rules and Policies. Please contact IT for Research if you need assistance.\n\n\n\n\n\n\nTip\n\n\n\nWondering if Yoda fits your research needs or have a question on using Yoda? Please contact the RDM support desk.",
     "crumbs": [
       "Yoda",
       "What is Yoda?"
+    ]
+  },
+  {
+    "objectID": "tools/yoda/notifications.html",
+    "href": "tools/yoda/notifications.html",
+    "title": "Notifications",
+    "section": "",
+    "text": "Yoda uses a notification system to notify you when the status of a data package that was submitted for archiving or publishing changes.\nIf you have unread notifications a Bell sign will be visible next to your email address on the top right button. You can view notifications by clicking on the Notifications button.",
+    "crumbs": [
+      "Yoda",
+      "Documentation",
+      "Yoda Portal",
+      "Notifications"
+    ]
+  },
+  {
+    "objectID": "tools/yoda/notifications.html#email-notifications",
+    "href": "tools/yoda/notifications.html#email-notifications",
+    "title": "Notifications",
+    "section": "Email notifications",
+    "text": "Email notifications\nYou can configure email notifications by clicking on Settings in the menu below.\n\n\n\nSettings menu",
+    "crumbs": [
+      "Yoda",
+      "Documentation",
+      "Yoda Portal",
+      "Notifications"
+    ]
+  },
+  {
+    "objectID": "tools/yoda/data_access_windows.html",
+    "href": "tools/yoda/data_access_windows.html",
+    "title": "Data access on Windows",
+    "section": "",
+    "text": "There are 2 basic ways to access the Yoda WebDAV interface from Windows. Using a tool to mount the Yoda Disk as a drive letter or file transfer tools. Which one works best depends on your workflow.",
+    "crumbs": [
+      "Yoda",
+      "Documentation",
+      "Data Access and Transfer",
+      "Data access on Windows"
+    ]
+  },
+  {
+    "objectID": "tools/yoda/data_access_windows.html#file-transfer",
+    "href": "tools/yoda/data_access_windows.html#file-transfer",
+    "title": "Data access on Windows",
+    "section": "File transfer",
+    "text": "File transfer\nThere are numerous free file transfer tools. Using these tools you must download the files you want to work on to your computer and upload the changes. This way of working is more stable and robust.\n\nCyberduck is a free file transfer tool for Mac and Windows. Cyberduck is the preferred way to access the Yoda Disk. There is also a paid addon “Mountainduck” which adds functionality to access via a drive letter.\nWinSCP is an alternative free file transfer tool. WinSCP provides a reliable file transfer solution. It allows users to securely download and upload files to Yoda. This option is suitable for large and complex datasets.",
+    "crumbs": [
+      "Yoda",
+      "Documentation",
+      "Data Access and Transfer",
+      "Data access on Windows"
+    ]
+  },
+  {
+    "objectID": "tools/yoda/data_access_windows.html#drive-letter",
+    "href": "tools/yoda/data_access_windows.html#drive-letter",
+    "title": "Data access on Windows",
+    "section": "Drive letter",
+    "text": "Drive letter\nUsing these tools you can access the Yoda Disk via a drive letter.\n\nWebDrive is a VU-supported method to remotely access files and can also be used on “green” pc’s. With WebDrive the Yoda WebDAV interface can be connected as a drive in Windows Explorer.\nDirectly in Windows Explorer. However, this has restrictions: a maximum file size of 4GB on Windows 11 and 50MB(!) on Windows 10 and a maximum of 1000 files per folder (Windows 10&11). Take care if you expect your dataset to exceed these limitations.",
+    "crumbs": [
+      "Yoda",
+      "Documentation",
+      "Data Access and Transfer",
+      "Data access on Windows"
+    ]
+  },
+  {
+    "objectID": "tools/yoda/data_access_windows.html#command-line-and-rclone",
+    "href": "tools/yoda/data_access_windows.html#command-line-and-rclone",
+    "title": "Data access on Windows",
+    "section": "Command line and Rclone",
+    "text": "Command line and Rclone\nIf you are familiar with command line tools rclone is also a good option to access the Yoda via Webdav. It also provides the option to use a drive letter.",
+    "crumbs": [
+      "Yoda",
+      "Documentation",
+      "Data Access and Transfer",
+      "Data access on Windows"
+    ]
+  },
+  {
+    "objectID": "tools/yoda/yoda_using_winscp.html",
+    "href": "tools/yoda/yoda_using_winscp.html",
+    "title": "Using WinSCP",
+    "section": "",
+    "text": "Windows users can use WinSCP to access their data via the Yoda WebDAV interface, as an alternative to the native WebDAV client.\nWinSCP is an easy-to-use filetransfer tool. It will show your local disk and the remote Yoda folders next to eachother so you can easily drag and drop files from one to the other.",
+    "crumbs": [
+      "Yoda",
+      "Documentation",
+      "Data Access and Transfer",
+      "Using WinSCP"
+    ]
+  },
+  {
+    "objectID": "tools/yoda/yoda_using_winscp.html#installing-winscp",
+    "href": "tools/yoda/yoda_using_winscp.html#installing-winscp",
+    "title": "Using WinSCP",
+    "section": "Installing WinSCP",
+    "text": "Installing WinSCP\nThe WinSCP install guide explains how to install WinSCP.",
+    "crumbs": [
+      "Yoda",
+      "Documentation",
+      "Data Access and Transfer",
+      "Using WinSCP"
+    ]
+  },
+  {
+    "objectID": "tools/yoda/yoda_using_winscp.html#how-to-using-winscp",
+    "href": "tools/yoda/yoda_using_winscp.html#how-to-using-winscp",
+    "title": "Using WinSCP",
+    "section": "How To: Using WinSCP",
+    "text": "How To: Using WinSCP\n\nStart WinSCP from the Desktop icon or the Start menu.\nIn the login window, ensure that the file protocol is set to “WebDAV” and encryption is set to “TLS/SSL implicit encryption”.\n\n\n\nEnter https://data.yoda.vu.nl/ in the Host name field. The port number should have its default value: 443.\n\n\n\nYou will be prompted for a name and password. User name is your email. Create a data access password and copy it to the Password field.",
+    "crumbs": [
+      "Yoda",
+      "Documentation",
+      "Data Access and Transfer",
+      "Using WinSCP"
     ]
   },
   {
@@ -1994,7 +1955,7 @@
     "href": "tools.html",
     "title": "Tools",
     "section": "",
-    "text": "TipWhat is tool?\n\n\n\nMissing a tool or a piece of documentation? You can submit suggestion using the Contribution portal.\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\nADA HPC\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVU Compute Hub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNebula\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science Framework (OSF)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPure (VU Amsterdam’s Current Research Information System)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQualtrics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSURF Research Cloud\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Drive\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSciCloud\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSciStor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSciSure\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSnellius\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "TipWhat is tool?\n\n\n\nMissing a tool or a piece of documentation? You can submit suggestion using the Contribution portal.\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\nADA HPC\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVU Compute Hub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNebula\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science Framework (OSF)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPure (VU Amsterdam’s Current Research Information System)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQualtrics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSURF Research Cloud\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Drive\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSciCloud\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSciStor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSciSure\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSnellius\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYoda\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "topics/rdm-support-desk.html",
@@ -4204,120 +4165,159 @@
     ]
   },
   {
-    "objectID": "tools/yoda/yoda_using_winscp.html",
-    "href": "tools/yoda/yoda_using_winscp.html",
-    "title": "Using WinSCP",
+    "objectID": "tools/yoda/yoda_using_python.html",
+    "href": "tools/yoda/yoda_using_python.html",
+    "title": "Using Python",
     "section": "",
-    "text": "Windows users can use WinSCP to access their data via the Yoda WebDAV interface, as an alternative to the native WebDAV client.\nWinSCP is an easy-to-use filetransfer tool. It will show your local disk and the remote Yoda folders next to eachother so you can easily drag and drop files from one to the other.",
+    "text": "Data in Yoda is not directly accessible, you have to download data to the machine that contains your analysis software first. If you do your analysis with Python scripts anyway, for example on Snellius or Ada, it can be useful to script the data access and transfer as well.",
     "crumbs": [
       "Yoda",
       "Documentation",
       "Data Access and Transfer",
-      "Using WinSCP"
+      "Using Python"
     ]
   },
   {
-    "objectID": "tools/yoda/yoda_using_winscp.html#installing-winscp",
-    "href": "tools/yoda/yoda_using_winscp.html#installing-winscp",
-    "title": "Using WinSCP",
-    "section": "Installing WinSCP",
-    "text": "Installing WinSCP\nThe WinSCP install guide explains how to install WinSCP.",
+    "objectID": "tools/yoda/yoda_using_python.html#python-irods-client",
+    "href": "tools/yoda/yoda_using_python.html#python-irods-client",
+    "title": "Using Python",
+    "section": "Python iRODS Client",
+    "text": "Python iRODS Client\nThe Python iRODS Client (PRC) is the default way to access data in iRODS programatically.\n\nInstall\npip install python-irodsclient\n\n\nSetting up a session to access Yoda\nThe easiest way to setup a session to Yoda is by using the information in the irods environment file.\nThe code below sets up a session using all the correct settings for Yoda:\nimport json\nfrom irods.session import iRODSSession\nfrom pathlib import Path\nfrom getpass import getpass\nimport ssl\n\ndef get_irods_environment(irods_environment_file):\n    \"\"\"Reads the irods_environment.json file, which contains the environment configuration.\"\"\"\n\n    print(\n        f\"Trying to retrieve connection settings from: {irods_environment_file}\"\n    )\n\n    try:\n        with open(irods_environment_file, \"r\") as f:\n            return json.load(f)\n    except:\n        print(f'Could not open {irods_environment_file}')\n        exit()\n\ndef setup_session(ca_file='/etc/ssl/certs/ca-certificates.crt'):\n    \"\"\"Use irods environment files to configure a iRODSSession. User is prompted for the password\"\"\"\n\n    irods_env = get_irods_environment(f\"{Path.home()}/.irods/irods_environment.json\")\n\n    password = getpass(f\"Enter valid DAP for user {irods_env['irods_user_name']}: \")\n\n    ssl_context = ssl.create_default_context(\n        purpose=ssl.Purpose.SERVER_AUTH, cafile=ca_file, capath=None, cadata=None\n    )\n\n    ssl_settings = {\n        \"client_server_negotiation\": \"request_server_negotiation\",\n        \"client_server_policy\": \"CS_NEG_REQUIRE\",\n        \"encryption_algorithm\": \"AES-256-CBC\",\n        \"encryption_key_size\": 32,\n        \"encryption_num_hash_rounds\": 16,\n        \"encryption_salt_size\": 8,\n        \"ssl_context\": ssl_context,\n    }\n\n    session = iRODSSession(\n        host=irods_env[\"irods_host\"],\n        port=irods_env[\"irods_port\"],\n        user=irods_env[\"irods_user_name\"],\n        password=password,\n        zone=irods_env[\"irods_zone_name\"],\n        authentication_scheme=\"pam_password\",\n        **ssl_settings,\n    )\n\n    return session\n\nsession=setup_session()\n\n# workload\ncoll=session.collections.get(f\"/{session.zone}/home\")\nfor col in coll.subcollections:\n    print(col.name)\n\n\nMore information\nYou can find more information on using the iRODS client in the README on github.",
     "crumbs": [
       "Yoda",
       "Documentation",
       "Data Access and Transfer",
-      "Using WinSCP"
+      "Using Python"
     ]
   },
   {
-    "objectID": "tools/yoda/yoda_using_winscp.html#how-to-using-winscp",
-    "href": "tools/yoda/yoda_using_winscp.html#how-to-using-winscp",
-    "title": "Using WinSCP",
-    "section": "How To: Using WinSCP",
-    "text": "How To: Using WinSCP\n\nStart WinSCP from the Desktop icon or the Start menu.\nIn the login window, ensure that the file protocol is set to “WebDAV” and encryption is set to “TLS/SSL implicit encryption”.\n\n\n\nEnter https://data.yoda.vu.nl/ in the Host name field. The port number should have its default value: 443.\n\n\n\nYou will be prompted for a name and password. User name is your email. Create a data access password and copy it to the Password field.",
+    "objectID": "tools/yoda/yoda_using_python.html#ibridges",
+    "href": "tools/yoda/yoda_using_python.html#ibridges",
+    "title": "Using Python",
+    "section": "iBridges",
+    "text": "iBridges\nThe PRC can be hard to use, because it requires some prior knowledge on the structure and terminology used in iRODS. For this reason, developers at Utrecht University created iBridges, which makes it easier to do basic file and metadata manipulation in iRODS.\n\nInstallation\nInstallation is again as simple as:\npip install ibridges\n\n\nConnecting\nTo connect you will need the irods environment file. iBridges expects the file to be in ~/.irods/irods_environment.json but you can point it to a different location.\nfrom ibridges import Session\nfrom pathlib import Path\nfrom getpass import getpass\n\npassword = getpass(f\"Enter valid DAP: \")\nsession = Session(irods_env_path=Path.home() / \".irods\" / \"irods_environment.json\", password=password)\n\n\nUpload data\nYou can easily upload your data with the previously created session:\nfrom ibridges import upload\n\nupload(session, \"/your/local/path\", \"/irods/path\")\nThis upload function can upload both directories (collections in iRODS) and files (data objects in iRODS).\n\n\nAdd iRODS metadata\nOne of the powerful features of iRODS is its ability to store metadata with your data in a consistent manner. Let’s add some metadata to a collection or data object:\nfrom ibridges import IrodsPath\n\nipath = IrodsPath(session, \"/irods/path\")\nipath.meta.add(\"some_key\", \"some_value\", \"some_units\")\nWe have used the IrodsPath class here, which is another central class to the iBridges API. From here we have access to the metadata as shown above, but additionally there are many more convenient features directly accessible such as getting the size of a collection or data object. A detailed description of the features is present in another part of the documentation.\n\n\nDownload data\nNaturally, we also want to download the data back to our local machine. This is done with the download function:\nfrom ibridges import download\n\ndownload(session, \"/irods/path\", \"/other/local/path\")\n\n\nClosing the session\nWhen you are done with your session, you should generally close it:\nsession.close()\n\n\nMore information\nMore information on using iBridges can be found in the online documentation.",
     "crumbs": [
       "Yoda",
       "Documentation",
       "Data Access and Transfer",
-      "Using WinSCP"
+      "Using Python"
     ]
   },
   {
-    "objectID": "tools/yoda/data_access_windows.html",
-    "href": "tools/yoda/data_access_windows.html",
-    "title": "Data access on Windows",
+    "objectID": "tools/yoda/yoda_using_python.html#streaming",
+    "href": "tools/yoda/yoda_using_python.html#streaming",
+    "title": "Using Python",
+    "section": "Streaming",
+    "text": "Streaming\nWith the python-irodsclient which iBridges is built on, we can open the file inside of a data object as a stream and process the content without downloading the data. This is especially useful if you need to access data stored in large files. That works without any problems for textual data.\nfrom ibridges import IrodsPath\n\nobj_path = IrodsPath(session, \"path\", \"to\", \"object\")\nwith obj_path.open('r') as stream:\n    content = stream.read().decode()\nSome python libraries allow to be instantiated directly from such a stream. This is supported by e.g. pandas and polars for datafiles or whisper for transcription and translation of audio files.\nimport pandas as pd\n\nwith obj_path.open('r') as stream:\n    df = pd.read_csv(stream)\n\nprint(df)",
+    "crumbs": [
+      "Yoda",
+      "Documentation",
+      "Data Access and Transfer",
+      "Using Python"
+    ]
+  },
+  {
+    "objectID": "tools/yoda/vault_publish.html",
+    "href": "tools/yoda/vault_publish.html",
+    "title": "Publishing data",
     "section": "",
-    "text": "There are 2 basic ways to access the Yoda WebDAV interface from Windows. Using a tool to mount the Yoda Disk as a drive letter or file transfer tools. Which one works best depends on your workflow.",
+    "text": "After a data package has been archived in the vault, it can optionally be submitted for publication.\nPublishing a data package has the following effects:\nThe VU Yoda repository page on DataCite Commons shows statistics of datasets currently published in VU Yoda.",
     "crumbs": [
       "Yoda",
       "Documentation",
-      "Data Access and Transfer",
-      "Data access on Windows"
+      "Securing and Distributing Data",
+      "Publishing data"
     ]
   },
   {
-    "objectID": "tools/yoda/data_access_windows.html#file-transfer",
-    "href": "tools/yoda/data_access_windows.html#file-transfer",
-    "title": "Data access on Windows",
-    "section": "File transfer",
-    "text": "File transfer\nThere are numerous free file transfer tools. Using these tools you must download the files you want to work on to your computer and upload the changes. This way of working is more stable and robust.\n\nCyberduck is a free file transfer tool for Mac and Windows. Cyberduck is the preferred way to access the Yoda Disk. There is also a paid addon “Mountainduck” which adds functionality to access via a drive letter.\nWinSCP is an alternative free file transfer tool. WinSCP provides a reliable file transfer solution. It allows users to securely download and upload files to Yoda. This option is suitable for large and complex datasets.",
+    "objectID": "tools/yoda/vault_publish.html#how-to-submitting-a-dataset-for-publication",
+    "href": "tools/yoda/vault_publish.html#how-to-submitting-a-dataset-for-publication",
+    "title": "Publishing data",
+    "section": "How to: Submitting a dataset for publication",
+    "text": "How to: Submitting a dataset for publication\n\nNavigate to the data package in the vault and press the Submit for publication button.\n\n\n\n\nSubmit for publication\n\n\n\nOnce you’ve submitted a data package for publication, the data manager of your Yoda community will be notified. The data manager will check that the data package meets various criteria for publication.\nIf the data manager encounters any issues, you will be contacted. Otherwise you’ll receive a notification that your data package has been published. This notification contains the DOI that has been assigned to your data package.\n\nNote: If needed a data manager can update metadata of a dataset after it has been published.",
     "crumbs": [
       "Yoda",
       "Documentation",
-      "Data Access and Transfer",
-      "Data access on Windows"
+      "Securing and Distributing Data",
+      "Publishing data"
     ]
   },
   {
-    "objectID": "tools/yoda/data_access_windows.html#drive-letter",
-    "href": "tools/yoda/data_access_windows.html#drive-letter",
-    "title": "Data access on Windows",
-    "section": "Drive letter",
-    "text": "Drive letter\nUsing these tools you can access the Yoda Disk via a drive letter.\n\nWebDrive is a VU-supported method to remotely access files and can also be used on “green” pc’s. With WebDrive the Yoda WebDAV interface can be connected as a drive in Windows Explorer.\nDirectly in Windows Explorer. However, this has restrictions: a maximum file size of 4GB on Windows 11 and 50MB(!) on Windows 10 and a maximum of 1000 files per folder (Windows 10&11). Take care if you expect your dataset to exceed these limitations.",
+    "objectID": "tools/yoda/vault_publish.html#long-term-accessibility",
+    "href": "tools/yoda/vault_publish.html#long-term-accessibility",
+    "title": "Publishing data",
+    "section": "Long-term accessibility",
+    "text": "Long-term accessibility\nYoda ensures there is always a data manager assigned to a Vault who can access Restricted and Closed datasets even if the creators no longer have an account.",
     "crumbs": [
       "Yoda",
       "Documentation",
-      "Data Access and Transfer",
-      "Data access on Windows"
+      "Securing and Distributing Data",
+      "Publishing data"
     ]
   },
   {
-    "objectID": "tools/yoda/data_access_windows.html#command-line-and-rclone",
-    "href": "tools/yoda/data_access_windows.html#command-line-and-rclone",
-    "title": "Data access on Windows",
-    "section": "Command line and Rclone",
-    "text": "Command line and Rclone\nIf you are familiar with command line tools rclone is also a good option to access the Yoda via Webdav. It also provides the option to use a drive letter.",
+    "objectID": "tools/yoda/vault_publish.html#searching-for-unpublished-datasets",
+    "href": "tools/yoda/vault_publish.html#searching-for-unpublished-datasets",
+    "title": "Publishing data",
+    "section": "Searching for unpublished datasets",
+    "text": "Searching for unpublished datasets\nYou can search for datasets that are archived but not (yet) published using the Search by Status function in the Yoda Portal. The list of data packages will include only the data packages of project groups of which you are a member. Click on a data package in the results list in order to view it.\n\n\n\nUnpublished data packages",
     "crumbs": [
       "Yoda",
       "Documentation",
-      "Data Access and Transfer",
-      "Data access on Windows"
+      "Securing and Distributing Data",
+      "Publishing data"
     ]
   },
   {
-    "objectID": "tools/yoda/notifications.html",
-    "href": "tools/yoda/notifications.html",
-    "title": "Notifications",
+    "objectID": "tools/yoda/group_manager.html",
+    "href": "tools/yoda/group_manager.html",
+    "title": "Managing Groups, Users and Access Rights",
     "section": "",
-    "text": "Yoda uses a notification system to notify you when the status of a data package that was submitted for archiving or publishing changes.\nIf you have unread notifications a Bell sign will be visible next to your email address on the top right button. You can view notifications by clicking on the Notifications button.",
+    "text": "All data in a Yoda Project is stored in 2 main data folders associated with a single access group.\nThe name of such an access Group, also known as a research group, always starts with “research-”. Files in a research group are only visible and accessible to users who have been granted access to that group.\nUsers can have three different roles in a group:\nThese access rights are applied to the top-level and all subfolders and files of the Research Folder.",
     "crumbs": [
       "Yoda",
       "Documentation",
       "Yoda Portal",
-      "Notifications"
+      "Managing Groups, Users and Access Rights"
     ]
   },
   {
-    "objectID": "tools/yoda/notifications.html#email-notifications",
-    "href": "tools/yoda/notifications.html#email-notifications",
-    "title": "Notifications",
-    "section": "Email notifications",
-    "text": "Email notifications\nYou can configure email notifications by clicking on Settings in the menu below.\n\n\n\nSettings menu",
+    "objectID": "tools/yoda/group_manager.html#how-to-granting-access-to-a-group",
+    "href": "tools/yoda/group_manager.html#how-to-granting-access-to-a-group",
+    "title": "Managing Groups, Users and Access Rights",
+    "section": "How to: Granting access to a group",
+    "text": "How to: Granting access to a group\nIf you are the group manager of a group, you will be able to add users to the group in the following way:\n\nNavigate to the Yoda portal.\nLog in with your email address.\nClick on the button on the top-right with your username.\n\n\n\n\nGroup manager\n\n\n\nIn the left pane of the Group Manager, select the group.\nClick on the link “Click here to add a new user to the group”.\nEnter the email address of the user. The address must be entered entirely in lower case.\nIf the email address is new for Yoda you will have the option to create the user otherwise you add the existing user to this group.\n\n\n\n\nAdding user\n\n\nThe added user will receive an invitation to join the connected SRAM collaboration. Most users will be able to log in with their own institutional account, if their institute is not connected to SRAM they need to create an eduID (NL) account.\nBy default, a new user will be a regular member of the group. If you want the user to be a member with read-only access or a group manager, see below for how to change users’ roles.",
     "crumbs": [
       "Yoda",
       "Documentation",
       "Yoda Portal",
-      "Notifications"
+      "Managing Groups, Users and Access Rights"
+    ]
+  },
+  {
+    "objectID": "tools/yoda/group_manager.html#how-to-changing-the-role-of-a-user-in-a-group",
+    "href": "tools/yoda/group_manager.html#how-to-changing-the-role-of-a-user-in-a-group",
+    "title": "Managing Groups, Users and Access Rights",
+    "section": "How to: Changing the role of a user in a group",
+    "text": "How to: Changing the role of a user in a group\nIf you are the group manager of a group, you will be able to alter the role of other members.\nUsers can have three different roles in a group:\n\nMember with read-only access: is able to view or download files in the group.\nRegular member: can view, download, upload, modify or delete files and folders in the group.\nGroup manager: is able to grant and revoke access rights for the group. Can also view, download, upload, modify or delete files and folders in the group.\n\nIn order to change the role of a group member:\n\nNavigate to the Yoda portal.\nLog in.\nClick on the button on the top-right with your username.\n\n\n\n\nGroup manager\n\n\n\nIn the left pane of the Group Manager, select the group.\nIn the right pane of the Group Manager, select the user.\nPress one of the buttons next to the “Change role” label to change the user’s role.\n\n\n\n\nSetting user rights\n\n\nNote that you can only change the role of the user after they have accepted the SRAM invitation.",
+    "crumbs": [
+      "Yoda",
+      "Documentation",
+      "Yoda Portal",
+      "Managing Groups, Users and Access Rights"
+    ]
+  },
+  {
+    "objectID": "tools/yoda/group_manager.html#how-to-revoking-access-to-a-group",
+    "href": "tools/yoda/group_manager.html#how-to-revoking-access-to-a-group",
+    "title": "Managing Groups, Users and Access Rights",
+    "section": "How to: Revoking access to a group",
+    "text": "How to: Revoking access to a group\nIf you are the group manager of a group, you will be able to revoke access to a group in the following way:\n\nNavigate to the Yoda portal.\nLog in.\nClick on the button on the top-right with your username.\n\n\n\n\nGroup manager\n\n\n\nIn the left pane of the Group Manager, select the group.\nIn the right pane of the Group Manager, select the user.\nClick on the red “Remove user” button.\n\n\n\n\nRemoving user\n\n\nNote that you can only remove a user after they have accepted the SRAM invitation.",
+    "crumbs": [
+      "Yoda",
+      "Documentation",
+      "Yoda Portal",
+      "Managing Groups, Users and Access Rights"
     ]
   },
   {
@@ -4695,7 +4695,6 @@
     "text": "You can find practical for users starting with Yoda on the Handbook. The documentation is split into the following sections:\n\nYoda Portal - Describes the functionality of the Yoda web portal, including inviting colleagues.\nUsing Yoda - Practical tips on adding metadata and using Yoda in your workflow.\nSecuring and Distributing Data - How to archive and publish your data in Yoda.\nData Access and Transfer - Different ways to upload and download your data.\n\nMore information can be found on the SURF User Knowledge base.\nThe Yoda site of Utrecht University also contains useful information and is being redeveloped so it can also be used by VU Amsterdam and the other Consortium Partners.\n\n\n\n\n\n\nTip\n\n\n\nWondering if Yoda fits your research needs or have a question on using Yoda? Please contact the RDM support desk.",
     "crumbs": [
       "Yoda",
-      "Documentation",
       "Getting started"
     ]
   },

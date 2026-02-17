@@ -145,20 +145,20 @@
     <lastmod>2026-02-12T15:39:00.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/group_manager.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_what_is.html</loc>
+    <lastmod>2026-02-17T09:34:36.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/notifications.html</loc>
     <lastmod>2026-02-12T15:39:00.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/vault_publish.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/data_access_windows.html</loc>
     <lastmod>2026-02-12T15:39:00.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_using_python.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_using_winscp.html</loc>
     <lastmod>2026-02-12T15:39:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/index.html</loc>
-    <lastmod>2026-02-17T09:24:51.000Z</lastmod>
   </url>
   <url>
     <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_using_rclone.html</loc>
@@ -206,7 +206,7 @@
   </url>
   <url>
     <loc>https://peer35.github.io/handbook-variant1/tools.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+    <lastmod>2026-02-17T09:34:36.000Z</lastmod>
   </url>
   <url>
     <loc>https://peer35.github.io/handbook-variant1/topics/rdm-support-desk.html</loc>
@@ -505,15 +505,15 @@
     <lastmod>2026-02-12T15:39:00.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_using_winscp.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_using_python.html</loc>
     <lastmod>2026-02-12T15:39:00.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/data_access_windows.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/vault_publish.html</loc>
     <lastmod>2026-02-12T15:39:00.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/notifications.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/group_manager.html</loc>
     <lastmod>2026-02-12T15:39:00.000Z</lastmod>
   </url>
   <url>
