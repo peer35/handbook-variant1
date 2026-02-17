@@ -10,6 +10,7 @@ website:
           - text: What is Yoda?
             href: tools/yoda/index.qmd
           - tools/yoda/yoda_cost_access.qmd
+          - tools/yoda/contact_support.qmd
           - section: Documentation
             contents:
             - tools/yoda/getting_started.qmd

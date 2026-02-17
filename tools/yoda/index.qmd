@@ -1,10 +1,5 @@
 ---
 title: Yoda
-keywords:
-    - yoda
-    - data management
-    - archiving
-    - publishing
 ---
 
 ## What is it?

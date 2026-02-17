@@ -1,0 +1,6 @@
+---
+title: Contact and support
+---
+
+## Support
+Please consult the [FAQ](faq.qmd) and [Known Issues](known_issues.qmd) first. 
