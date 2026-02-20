@@ -1,11 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://peer35.github.io/handbook-variant1/guides.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/blog/2024-11-01hackathon.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/blog/2025-05-15embed-iframe.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/blog/2024-05-23welcome.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/blog/2025-07-28manuals.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/blog/2024-11-28hackathon.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/lifecycle/02-plan-design.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/lifecycle/03-collect-store.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/lifecycle/04-process-analyse.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/about.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/guides/onboarding.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/guides/publish-and-share.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/guides/discover-and-initiate.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/guides/use-osf.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/guides/collect-and-store.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/guides/offboarding.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/guides/comply-with-gdpr.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/osf.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/scicloud.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/nebula.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/pure/registration/data-registration.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/compute-hub.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://peer35.github.io/handbook-variant1/tools/researchcloud.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ada.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/scistor/scistor-connection.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/scistor/index.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/getting_started/exporting_results.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/getting_started/getting_started.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
@@ -13,27 +113,11 @@
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/getting_started/first_scan.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/getting_started/log_in.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
     <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/advanced_settings/folder_options.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/interpreting_sim_scores/similarity_scores.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/researchdrive.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ada/quick-start.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/advanced_settings/doc_to_doc_comparison.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
@@ -49,14 +133,6 @@
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ada/hardware.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ada/getting-started/8-askingforhelp.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
     <loc>https://peer35.github.io/handbook-variant1/tools/ada/getting-started/6-yoda.html</loc>
     <lastmod>2026-02-12T15:39:00.000Z</lastmod>
   </url>
@@ -65,7 +141,15 @@
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ada/getting-started/1-login.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ada/getting-started/2-software.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ada/getting-started/8-askingforhelp.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ada/yoda.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
@@ -77,28 +161,64 @@
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/scistor.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ada/slurm.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/compute-hub.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ada/quick-start.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/qualtrics/index.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_using_cyberduck_cryptometer.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/nebula.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/getting_started.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/scistor/snapshots-data-recovery.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/vault_publish.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/scistor/index.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/analysing_data.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/sram_invitations_eduid_activation.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_using_icommands.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/workflow_metadata_license.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_cost_access.html</loc>
+    <lastmod>2026-02-17T11:41:38.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/workflow_metadata.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/portal_introduction.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/properties_and_explanation.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_using_winscp.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/metadata.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://peer35.github.io/handbook-variant1/tools/yoda/faq.html</loc>
@@ -109,99 +229,15 @@
     <lastmod>2026-02-12T15:39:00.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_using_cyberduck_cryptometer.html</loc>
-    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/contact_support.html</loc>
+    <lastmod>2026-02-17T09:24:51.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/vault_archive.html</loc>
-    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/analysing_data.html</loc>
-    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/workflow_metadata.html</loc>
-    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/logging_in.html</loc>
-    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/metadata.html</loc>
-    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/workflow_metadata_license.html</loc>
-    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_using_webdrive.html</loc>
-    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_dap.html</loc>
-    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_what_is.html</loc>
-    <lastmod>2026-02-17T09:34:36.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/notifications.html</loc>
-    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/data_access_windows.html</loc>
-    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_using_winscp.html</loc>
-    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_using_rclone.html</loc>
-    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/pure/registration/software-registration.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/researchdrive.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/pure/index.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/guides/offboarding.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/guides/policies-supporting-vision-open-science.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/guides/publish-and-share.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/guides/collect-and-store.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/guides/use-osf.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/guides/onboarding.html</loc>
-    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/guides/comply-with-gdpr.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/yoda-contact.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/qualtrics/index.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
@@ -209,11 +245,55 @@
     <lastmod>2026-02-17T09:34:36.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/topics/rdm-support-desk.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/index.html</loc>
+    <lastmod>2026-02-02T15:03:18.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/yoda-contact.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/topics/ethical-review.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/topics/fair-principles.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/topics/research-software.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/topics/data-collection.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/topics/academic-integrity.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/topics/software-licensing.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/topics/data-classification.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/topics/ithenticate.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/topics/data-management-section.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/topics/open-science.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/topics/dataversenl.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/topics/data-transfer.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
@@ -225,187 +305,7 @@
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/topics/care-principles.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/topics/data-management-plan.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/topics/finding-existing-data.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
     <loc>https://peer35.github.io/handbook-variant1/topics/data-citation.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/topics/academic-integrity.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/topics/finding-existing-software.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/topics/rdsm-terminology.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/topics/fair-principles.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/topics/open-science.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/topics/ithenticate.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/topics/data-collection.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/topics/data-archiving.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/topics/software-licensing.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/topics/software-archiving.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/topics/selecting-data.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/topics.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/lifecycle/06-publish-share.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/lifecycle/03-collect-store.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/lifecycle/04-process-analyse.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/contributing.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/blog/2024-09-30hackathon.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/blog/2024-06-27hackathon.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/blog/2024-11-28hackathon.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/blog/2025-07-29itvoblog.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/blog/2024-10-22post-mortem.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/blog/2024-09-05hackathon.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/index.html</loc>
-    <lastmod>2026-02-02T15:03:18.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/blog.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/blog/2025-07-28manuals.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/blog/2024-11-01hackathon.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/blog/2025-07-24hackathon.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/blog/2025-05-15embed-iframe.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/blog/2024-05-23welcome.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/editors-guide.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/technical-details.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/lifecycle/02-plan-design.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/lifecycle/01-discover-initiate.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/lifecycle/05-document-preserve.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/topics/gdpr.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/topics/dmponline.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/topics/data-management-section.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/topics/research-software.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/topics/software-publishing.html</loc>
-    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/topics/research-data-management.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/topics/cff.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/topics/data-transfer.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
@@ -417,35 +317,7 @@
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/topics/data-publishing.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/topics/data-classification.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/topics/trainings.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/topics/itvo.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/topics/research-data-and-software-management-policy.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/topics/dataversenl.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/topics/data-protection.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/topics/data-storage.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/topics/data-management-plan.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
@@ -453,127 +325,103 @@
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
+    <loc>https://peer35.github.io/handbook-variant1/topics/gdpr.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/topics/dmponline.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/topics/data-storage.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/topics/selecting-data.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/topics/research-data-management.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/topics/ethical-review.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/topics/data-publishing.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/topics/care-principles.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/topics/itvo.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/topics/data-archiving.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://peer35.github.io/handbook-variant1/topics/data-backup.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/about.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/topics/rdm-support-desk.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/guides.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/topics/finding-existing-data.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/guides/data-lifecycle.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/topics/software-publishing.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/topics/trainings.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/guides/discover-and-initiate.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/topics/research-data-and-software-management-policy.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/guides/publishing-fair-software.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/topics/software-archiving.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/guides/plan-and-design.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/topics/rdsm-terminology.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/guides/process-and-analyse.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/topics/cff.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/guides/document-and-preserve.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/topics/finding-existing-software.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/scicloud.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/topics/data-protection.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/pure/registration/data-registration.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/technical-details.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/scisure.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/contributing.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/data_access_macos.html</loc>
-    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_using_python.html</loc>
-    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/vault_publish.html</loc>
-    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/group_manager.html</loc>
-    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/portal_introduction.html</loc>
-    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/contact_support.html</loc>
-    <lastmod>2026-02-17T09:24:51.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/sram_invitations_eduid_activation.html</loc>
-    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_using_windowsexplorer.html</loc>
-    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/properties_and_explanation.html</loc>
-    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_cost_access.html</loc>
-    <lastmod>2026-02-17T11:41:38.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/data_access_introduction.html</loc>
-    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/known_issues.html</loc>
-    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_using_icommands.html</loc>
-    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/finding_restoring.html</loc>
-    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/getting_started.html</loc>
-    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_using_cyberduck.html</loc>
-    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/scistor/scistor-connection.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/topics.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/qualtrics.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/snellius.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/blog.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
@@ -581,7 +429,71 @@
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/pure.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_using_cyberduck.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_what_is.html</loc>
+    <lastmod>2026-02-17T09:34:36.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_using_python.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/group_manager.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_using_webdrive.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/notifications.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_using_windowsexplorer.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/data_access_introduction.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_dap.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/logging_in.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/yoda_using_rclone.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/vault_archive.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/data_access_windows.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/finding_restoring.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/data_access_macos.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/yoda/known_issues.html</loc>
+    <lastmod>2026-02-12T15:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/scistor.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
@@ -593,11 +505,11 @@
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ada/getting-started/9-requestsoftware.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ada/hardware.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ada/getting-started/2-software.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ada/help.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
@@ -609,11 +521,15 @@
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ada/open-ondemand.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ada/getting-started/9-requestsoftware.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ada/help.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ada/getting-started/1-login.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ada/open-ondemand.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
@@ -625,14 +541,6 @@
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ada/yoda.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ada/slurm.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
     <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/index.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
@@ -641,23 +549,115 @@
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/advanced_settings/doc_to_doc_comparison.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/getting_started/exporting_results.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/getting_started/getting_started.html</loc>
-    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
-  </url>
-  <url>
     <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/similarity_report/faq.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
   <url>
-    <loc>https://peer35.github.io/handbook-variant1/tools/osf.html</loc>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/getting_started/first_scan.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/getting_started/log_in.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ithenticate/interpreting_sim_scores/similarity_scores.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/scistor/snapshots-data-recovery.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/pure.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/scisure.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/pure/index.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/pure/registration/software-registration.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/snellius.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/qualtrics.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/tools/ada.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/guides/process-and-analyse.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/guides/policies-supporting-vision-open-science.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/guides/document-and-preserve.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/guides/data-lifecycle.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/guides/plan-and-design.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/guides/publishing-fair-software.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/editors-guide.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/lifecycle/01-discover-initiate.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/lifecycle/06-publish-share.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/lifecycle/05-document-preserve.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/blog/2025-07-24hackathon.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/blog/2025-07-29itvoblog.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/blog/2024-09-05hackathon.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/blog/2024-06-27hackathon.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/blog/2024-10-22post-mortem.html</loc>
+    <lastmod>2026-02-02T12:17:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peer35.github.io/handbook-variant1/blog/2024-09-30hackathon.html</loc>
     <lastmod>2026-02-02T12:17:13.000Z</lastmod>
   </url>
 </urlset>

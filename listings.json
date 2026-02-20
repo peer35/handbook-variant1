@@ -1,8 +1,52 @@
 [
   {
-    "listing": "/tools/qualtrics/index.html",
+    "listing": "/guides.html",
     "items": [
-      "/tools/qualtrics/qualtrics-faq.html"
+      "/guides/publish-and-share.html",
+      "/guides/comply-with-gdpr.html",
+      "/guides/discover-and-initiate.html",
+      "/guides/collect-and-store.html",
+      "/guides/process-and-analyse.html",
+      "/guides/document-and-preserve.html",
+      "/guides/onboarding.html",
+      "/guides/publishing-fair-software.html",
+      "/guides/plan-and-design.html",
+      "/guides/use-osf.html",
+      "/guides/policies-supporting-vision-open-science.html",
+      "/guides/data-lifecycle.html",
+      "/guides/offboarding.html"
+    ]
+  },
+  {
+    "listing": "/lifecycle/02-plan-design.html",
+    "items": [
+      "/topics/data-classification.html",
+      "/topics/data-management-plan.html",
+      "/topics/data-management-section.html",
+      "/topics/ethical-review.html",
+      "/topics/gdpr.html",
+      "/topics/research-data-and-software-management-policy.html",
+      "/guides/comply-with-gdpr.html",
+      "/guides/onboarding.html",
+      "/guides/plan-and-design.html"
+    ]
+  },
+  {
+    "listing": "/lifecycle/03-collect-store.html",
+    "items": [
+      "/topics/data-backup.html",
+      "/topics/data-collection.html",
+      "/topics/data-protection.html",
+      "/topics/data-storage.html",
+      "/guides/collect-and-store.html",
+      "/guides/use-osf.html"
+    ]
+  },
+  {
+    "listing": "/lifecycle/04-process-analyse.html",
+    "items": [
+      "/guides/process-and-analyse.html",
+      "/guides/use-osf.html"
     ]
   },
   {
@@ -13,10 +57,9 @@
     ]
   },
   {
-    "listing": "/tools/pure/index.html",
+    "listing": "/tools/qualtrics/index.html",
     "items": [
-      "/tools/pure/registration/data-registration.html",
-      "/tools/pure/registration/software-registration.html"
+      "/tools/qualtrics/qualtrics-faq.html"
     ]
   },
   {
@@ -82,46 +125,11 @@
     ]
   },
   {
-    "listing": "/lifecycle/06-publish-share.html",
-    "items": [
-      "/topics/data-licensing.html",
-      "/topics/data-publishing.html",
-      "/topics/dataversenl.html",
-      "/topics/fair-principles.html",
-      "/topics/persistent-identifier.html",
-      "/topics/software-licensing.html",
-      "/topics/software-publishing.html",
-      "/tools/pure/registration/data-registration.html",
-      "/tools/pure/registration/software-registration.html",
-      "/guides/publish-and-share.html",
-      "/guides/publishing-fair-software.html",
-      "/guides/use-osf.html"
-    ]
-  },
-  {
-    "listing": "/lifecycle/03-collect-store.html",
-    "items": [
-      "/topics/data-backup.html",
-      "/topics/data-collection.html",
-      "/topics/data-protection.html",
-      "/topics/data-storage.html",
-      "/guides/collect-and-store.html",
-      "/guides/use-osf.html"
-    ]
-  },
-  {
-    "listing": "/lifecycle/04-process-analyse.html",
-    "items": [
-      "/guides/process-and-analyse.html",
-      "/guides/use-osf.html"
-    ]
-  },
-  {
     "listing": "/blog.html",
     "items": [
       "/blog/2025-07-28manuals.html",
-      "/blog/2025-07-29itvoblog.html",
       "/blog/2025-07-24hackathon.html",
+      "/blog/2025-07-29itvoblog.html",
       "/blog/2025-05-15embed-iframe.html",
       "/blog/2024-11-28hackathon.html",
       "/blog/2024-11-01hackathon.html",
@@ -130,60 +138,6 @@
       "/blog/2024-09-05hackathon.html",
       "/blog/2024-06-27hackathon.html",
       "/blog/2024-05-23welcome.html"
-    ]
-  },
-  {
-    "listing": "/lifecycle/02-plan-design.html",
-    "items": [
-      "/topics/data-classification.html",
-      "/topics/data-management-plan.html",
-      "/topics/data-management-section.html",
-      "/topics/ethical-review.html",
-      "/topics/gdpr.html",
-      "/topics/research-data-and-software-management-policy.html",
-      "/guides/comply-with-gdpr.html",
-      "/guides/onboarding.html",
-      "/guides/plan-and-design.html"
-    ]
-  },
-  {
-    "listing": "/lifecycle/01-discover-initiate.html",
-    "items": [
-      "/topics/finding-existing-data.html",
-      "/guides/discover-and-initiate.html",
-      "/guides/onboarding.html"
-    ]
-  },
-  {
-    "listing": "/lifecycle/05-document-preserve.html",
-    "items": [
-      "/topics/data-archiving.html",
-      "/topics/data-documentation.html",
-      "/topics/dataversenl.html",
-      "/topics/fair-principles.html",
-      "/topics/metadata.html",
-      "/topics/persistent-identifier.html",
-      "/topics/software-archiving.html",
-      "/topics/selecting-data.html",
-      "/guides/document-and-preserve.html"
-    ]
-  },
-  {
-    "listing": "/guides.html",
-    "items": [
-      "/guides/publish-and-share.html",
-      "/guides/comply-with-gdpr.html",
-      "/guides/discover-and-initiate.html",
-      "/guides/collect-and-store.html",
-      "/guides/process-and-analyse.html",
-      "/guides/document-and-preserve.html",
-      "/guides/onboarding.html",
-      "/guides/publishing-fair-software.html",
-      "/guides/plan-and-design.html",
-      "/guides/use-osf.html",
-      "/guides/policies-supporting-vision-open-science.html",
-      "/guides/data-lifecycle.html",
-      "/guides/offboarding.html"
     ]
   },
   {
@@ -218,6 +172,52 @@
       "/tools/ithenticate/interpreting_sim_scores/similarity_scores.html",
       "/tools/ithenticate/similarity_report/faq.html",
       "/tools/ithenticate/similarity_report/similarity_report.html"
+    ]
+  },
+  {
+    "listing": "/tools/pure/index.html",
+    "items": [
+      "/tools/pure/registration/data-registration.html",
+      "/tools/pure/registration/software-registration.html"
+    ]
+  },
+  {
+    "listing": "/lifecycle/01-discover-initiate.html",
+    "items": [
+      "/topics/finding-existing-data.html",
+      "/guides/discover-and-initiate.html",
+      "/guides/onboarding.html"
+    ]
+  },
+  {
+    "listing": "/lifecycle/06-publish-share.html",
+    "items": [
+      "/topics/data-licensing.html",
+      "/topics/data-publishing.html",
+      "/topics/dataversenl.html",
+      "/topics/fair-principles.html",
+      "/topics/persistent-identifier.html",
+      "/topics/software-licensing.html",
+      "/topics/software-publishing.html",
+      "/tools/pure/registration/data-registration.html",
+      "/tools/pure/registration/software-registration.html",
+      "/guides/publish-and-share.html",
+      "/guides/publishing-fair-software.html",
+      "/guides/use-osf.html"
+    ]
+  },
+  {
+    "listing": "/lifecycle/05-document-preserve.html",
+    "items": [
+      "/topics/data-archiving.html",
+      "/topics/data-documentation.html",
+      "/topics/dataversenl.html",
+      "/topics/fair-principles.html",
+      "/topics/metadata.html",
+      "/topics/persistent-identifier.html",
+      "/topics/software-archiving.html",
+      "/topics/selecting-data.html",
+      "/guides/document-and-preserve.html"
     ]
   }
 ]
